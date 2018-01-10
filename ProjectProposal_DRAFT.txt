@@ -10,6 +10,19 @@ Team Members:
 Data Sources:
 - Kaggle: Zillow housing data
 	https://www.kaggle.com/zillow/zecon
+- Kaggle: Zillow renting data
+	https://www.kaggle.com/zillow/rent-index/data
+- Zillow API
+	https://www.zillow.com/howto/api/APIOverview.htm 
+	Limited to 1000 requests per day
+- SchoolDigger API: School Ratings
+	https://developer.schooldigger.com/?r=schooldigger
+- Schools in CA: See Public Schools and Districts xlsx
+	https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+
+Other References:
+- New York Times Presentation: Rent or Buy
+	https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html
 
 Questions to answer:
 - Cities - how sale trend ?
@@ -28,13 +41,24 @@ Questions to answer:
 		- Highway
 		- Shopping Centers/ Restaurants
 
+- For listings of comparable square footage, how much does number of bedrooms influence price differences? Number of bathrooms? Number of Floors?
+
 hypothesis: 
 if home price value decreasing for city are ,those home  good to buy for investment.
 
 
 Tasks:
 - Exploratory dive into Kaggle data (All) 
+- Identify Necessary Cleaning
+	- Constraints, Assumptions, etc.
+
+
+Outputs:
+- buy vs. rent by neighborhood (Bay Area, CA)
+- buy vs. rent by city (Bay Area, CA)
+- 
 
 
 Alex comments: (07 Jan 2018)
 	We may want to figure out a way to limit the scope at least at a first draft, and if the method we use to answer these questions is robust, we can try and expand the dataset and apply the model. 
+
