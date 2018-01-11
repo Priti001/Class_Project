@@ -15,6 +15,10 @@ Data Sources:
 - Zillow API
 	https://www.zillow.com/howto/api/APIOverview.htm 
 	Limited to 1000 requests per day
+- Schools in CA: See Public Schools and Districts xlsx
+	https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+- Public record of CA Test Scores
+	https://caaspp.cde.ca.gov/sb2017/ResearchFileList
 
 Other References:
 - New York Times Presentation: Rent or Buy
