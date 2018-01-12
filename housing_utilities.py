@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[49]:
+# In[75]:
 
 
 def retrieve_data(*args, debug=False):
@@ -27,9 +27,9 @@ def retrieve_data(*args, debug=False):
         lookup_file = input('Please enter file path to lookup table\n')
     lookup = pd.read_csv(lookup_file)  
     
-    # confirm county is in lookup
-    if debug: print('looking up %s' % county)
     for county in counties:
+        # confirm county is in lookup
+        if debug: print('looking up %s' % county)
         if lookup['County'].isin([county]).any():
             if debug: print('found %s in %s' % (county,lookup_file))
             detail_file = lookup.loc[lookup['County'] == county,'File Name'].values[0]
@@ -45,9 +45,12 @@ def retrieve_data(*args, debug=False):
                 output = pd.concat([output,data],axis=0,ignore_index=True)
             else:
                 output = data
-            return output
         else:
             print('%s not in %s' % (county,lookup_file))
+    if len(output) > 0:
+        return output
+    else:
+        print('Could not find any county(s) entered.')
 
 
 # In[60]:
@@ -80,7 +83,7 @@ def express_as_year(x):
     return convert_timescale(str2unix(x))%1+extract_year(x)
 
 
-# In[57]:
+# In[65]:
 
 
 def plot_housing_data(df, x_metric = 'Date',y_metric = 'MedianSoldPricePerSqft_AllHomes'):
@@ -95,13 +98,14 @@ def plot_housing_data(df, x_metric = 'Date',y_metric = 'MedianSoldPricePerSqft_A
     y_data = df[y_metric]
     
     plt.plot(x_data,y_data,'.')
+    plt.grid(True)
     plt.show()
 
 
-# In[63]:
+# In[78]:
 
 
-args = ['Alameda','San Mateo']
+args = ['Alameda','San Mateo','San Francisco']
 result = retrieve_data(*args)
-plot_housing_data(result)
+plot_housing_data(result,y_metric = 'MedianSoldPricePerSqft_AllHomes')
 
