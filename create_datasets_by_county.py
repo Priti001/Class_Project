@@ -61,7 +61,6 @@ def extract_year(x, dateformat = "%Y-%m-%d"):
 
 # Filter to only: CA
 ca_data = combine.loc[combine['State']=='CA'].dropna(axis='columns',how='all')
-ca_data.to_csv('CA_Zillow_data.csv')
 county_data_dir = 'data_by_county'
 
 # Create Index of files
@@ -69,11 +68,13 @@ template = pd.DataFrame({
     'County' : [],
     'State' : 'CA',
     'File Name' : [],
-    'Min Date': [],
-    'Max Date': [],
+    'Min Year': [],
+    'Max Year': [],
     'Min Price Per Sq Ft': [],
     'Max Price Per Sq Ft': []
 })
+col_order = ['State','County','File Name','Min Year','Max Year',
+             'Min Price Per Sq Ft','Max Price Per Sq Ft']
 
 county_profile = template
 
@@ -100,6 +101,6 @@ for county in counties:
         }, index=[0])
     county_profile = pd.concat([county_profile,this_index_entry],axis=0,ignore_index=True)
     
-county_profile.to_csv('CA_lookup.csv')
+county_profile[col_order].to_csv('CA_lookup.csv')
     
 
