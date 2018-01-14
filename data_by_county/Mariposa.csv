@@ -1,0 +1,896 @@
+,Date,RegionName,HomesSoldAsForeclosuresRatio_AllHomes,InventorySeasonallyAdjusted_AllHomes,InventoryRaw_AllHomes,MedianListingPricePerSqft_1Bedroom,MedianListingPricePerSqft_2Bedroom,MedianListingPricePerSqft_3Bedroom,MedianListingPricePerSqft_4Bedroom,MedianListingPricePerSqft_5BedroomOrMore,MedianListingPricePerSqft_AllHomes,MedianListingPricePerSqft_CondoCoop,MedianListingPricePerSqft_DuplexTriplex,MedianListingPricePerSqft_SingleFamilyResidence,MedianListingPrice_1Bedroom,MedianListingPrice_2Bedroom,MedianListingPrice_3Bedroom,MedianListingPrice_4Bedroom,MedianListingPrice_5BedroomOrMore,MedianListingPrice_AllHomes,MedianListingPrice_CondoCoop,MedianListingPrice_DuplexTriplex,MedianListingPrice_SingleFamilyResidence,MedianPctOfPriceReduction_AllHomes,MedianPctOfPriceReduction_CondoCoop,MedianPctOfPriceReduction_SingleFamilyResidence,MedianPriceCutDollar_AllHomes,MedianPriceCutDollar_CondoCoop,MedianPriceCutDollar_SingleFamilyResidence,MedianRentalPricePerSqft_1Bedroom,MedianRentalPricePerSqft_2Bedroom,MedianRentalPricePerSqft_3Bedroom,MedianRentalPricePerSqft_4Bedroom,MedianRentalPricePerSqft_5BedroomOrMore,MedianRentalPricePerSqft_AllHomes,MedianRentalPricePerSqft_CondoCoop,MedianRentalPricePerSqft_DuplexTriplex,MedianRentalPricePerSqft_MultiFamilyResidence5PlusUnits,MedianRentalPricePerSqft_SingleFamilyResidence,MedianRentalPricePerSqft_Studio,MedianRentalPrice_1Bedroom,MedianRentalPrice_2Bedroom,MedianRentalPrice_3Bedroom,MedianRentalPrice_4Bedroom,MedianRentalPrice_5BedroomOrMore,MedianRentalPrice_AllHomes,MedianRentalPrice_CondoCoop,MedianRentalPrice_DuplexTriplex,MedianRentalPrice_MultiFamilyResidence5PlusUnits,MedianRentalPrice_SingleFamilyResidence,MedianRentalPrice_Studio,MedianSoldPricePerSqft_AllHomes,MedianSoldPricePerSqft_CondoCoop,MedianSoldPricePerSqft_SingleFamilyResidence,MedianSoldPrice_AllHomes,ZHVIPerSqft_AllHomes,PctOfHomesDecreasingInValues_AllHomes,PctOfHomesIncreasingInValues_AllHomes,PctOfHomesSellingForGain_AllHomes,PctOfHomesSellingForLoss_AllHomes,PctOfListingsWithPriceReductionsSeasAdj_AllHomes,PctOfListingsWithPriceReductionsSeasAdj_CondoCoop,PctOfListingsWithPriceReductionsSeasAdj_SingleFamilyResidence,PctOfListingsWithPriceReductions_AllHomes,PctOfListingsWithPriceReductions_CondoCoop,PctOfListingsWithPriceReductions_SingleFamilyResidence,PctTransactionsThatArePreviouslyForeclosuredHomes_AllHomes,PriceToRentRatio_AllHomes,Turnover_AllHomes,ZHVI_1bedroom,ZHVI_2bedroom,ZHVI_3bedroom,ZHVI_4bedroom,ZHVI_5BedroomOrMore,ZHVI_AllHomes,ZHVI_BottomTier,ZHVI_CondoCoop,ZHVI_MiddleTier,ZHVI_SingleFamilyResidence,ZHVI_TopTier,ZRI_AllHomes,ZRI_AllHomesPlusMultifamily,ZriPerSqft_AllHomes,Zri_MultiFamilyResidenceRental,Zri_SingleFamilyResidenceRental,Unique_City_ID,City,County,State
+2630007,1996-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630008,1997-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630009,1998-01-31,mariposamariposaca,1.0348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7232,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630010,1998-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.639,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630011,1998-03-31,mariposamariposaca,3.1553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5828,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630012,1998-04-30,mariposamariposaca,2.2087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6109,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630013,1998-05-31,mariposamariposaca,1.9994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.667,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630014,1998-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,120000.0,,,,,,,,,,,,,,2.9197,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630015,1998-07-31,mariposamariposaca,1.3687,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0601,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630016,1998-08-31,mariposamariposaca,2.8405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.032,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630017,1998-09-30,mariposamariposaca,1.7883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,116000.0,,,,,,,,,,,,,,3.1724,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630018,1998-10-31,mariposamariposaca,1.6656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0601,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630019,1998-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2285,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630020,1998-12-31,mariposamariposaca,2.4376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2285,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630021,1999-01-31,mariposamariposaca,1.489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1162,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630022,1999-02-28,mariposamariposaca,2.7663,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3127,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630023,1999-03-31,mariposamariposaca,1.4897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1162,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630024,1999-04-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9759,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630025,1999-05-31,mariposamariposaca,1.9798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.1818,,3.0039,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630026,1999-06-30,mariposamariposaca,2.4267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95000.0,,,,,,,,,,,,7.4866,,3.032,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630027,1999-07-31,mariposamariposaca,2.315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.8701,,3.1724,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630028,1999-08-31,mariposamariposaca,1.0070000000000001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2285,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630029,1999-09-30,mariposamariposaca,1.32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,111000.0,,,,,,,,,,,,,,3.2566,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630030,1999-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97470.5882,,,,,,,,,,,,,,3.3408,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630031,1999-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2285,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630032,1999-12-31,mariposamariposaca,1.0517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.992999999999999,,3.397,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630033,2000-01-31,mariposamariposaca,1.8003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4531,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630034,2000-02-29,mariposamariposaca,1.0604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.425,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630035,2000-03-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5093,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630036,2000-04-30,mariposamariposaca,1.064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64000.0,,,,,,,,,,,,,,3.6777,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630037,2000-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5935,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630038,2000-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110923.0769,,,,,,,,,,,,,,3.5654,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630039,2000-07-31,mariposamariposaca,1.0529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2847,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630040,2000-08-31,mariposamariposaca,1.7726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3127,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630041,2000-09-30,mariposamariposaca,1.0408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92500.0,,,,,,,,,,,,,,3.3127,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630042,2000-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9019,,3.2566,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630043,2000-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84807.6923,,,,,,,,,,,,,,3.397,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630044,2000-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0961,,3.425,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630045,2001-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103653.8462,,,,,,,,,,,,,,3.6216,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630046,2001-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129411.7647,,,,,,,,,,,,8.8461,,3.7058,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630047,2001-03-31,mariposamariposaca,1.9705,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126550.0,,,,,,,,,,,,5.3846,,3.9304,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630048,2001-04-30,mariposamariposaca,2.4008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128450.0,,,,,,,,,,,,,,4.0146,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630049,2001-05-31,mariposamariposaca,2.3526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125000.0,,,,,,,,,,,,,,4.2392,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630050,2001-06-30,mariposamariposaca,2.0498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1269,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630051,2001-07-31,mariposamariposaca,1.0216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106076.9231,,,,,,,,,,,,,,4.3796,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630052,2001-08-31,mariposamariposaca,2.3251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,118058.8235,,,,,,,,,,,,4.7059,,4.8287,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630053,2001-09-30,mariposamariposaca,1.4153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,115650.0,,,,,,,,,,,,2.8,,4.8849,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630054,2001-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,114000.0,,,,,,,,,,,,4.7714,,4.941,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630055,2001-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,113200.0,,,,,,,,,,,,,,4.913,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630056,2001-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104300.0,,,,,,,,,,,,,,4.913,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630057,2002-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1666,,4.8568,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630058,2002-02-28,mariposamariposaca,1.064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7726,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630059,2002-03-31,mariposamariposaca,1.7456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,125000.0,,,,,,,,,,,,9.6154,,4.913,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630060,2002-04-30,mariposamariposaca,1.0198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139705.8824,,,,,,,,,,,,8.6425,,4.913,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630061,2002-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135250.0,,,,,,,,,,,,9.7479,,4.8849,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630062,2002-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,132300.0,,,,,,,,,,,,5.0427,,5.1095,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630063,2002-07-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130700.0,,,,,,,,,,,,,,5.2779,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630064,2002-08-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,147700.0,,,,,,,,,,,,,,5.1095,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630065,2002-09-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,139700.0,,,,,,,,,,,,,,5.0814,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630066,2002-10-31,mariposamariposaca,0.9925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,129350.0,,,,,,,,,,,,,,5.1376,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630067,2002-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0533,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630068,2002-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9972,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630069,2003-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9691,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630070,2003-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8462,,5.0533,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630071,2003-03-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,178000.0,,,,,,,,,,,,,,4.9972,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630072,2003-04-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.913,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630073,2003-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,160307.6923,,,,,,,,,,,,8.0972,,4.941,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630074,2003-06-30,mariposamariposaca,1.062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157352.9412,,,,,,,,,,,,4.3344,,4.7726,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630075,2003-07-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,161400.0,,,,,,,,,,,,,,4.8568,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630076,2003-08-31,mariposamariposaca,1.3247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,171350.0,,,,,,,,,,,,,,4.8849,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630077,2003-09-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6603,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630078,2003-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,176038.4615,,,,,,,,,,,,2.8489999999999998,,4.9691,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630079,2003-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9972,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630080,2003-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201923.0769,,,,,,,,,,,,,,5.1937,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630081,2004-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1656,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630082,2004-02-29,mariposamariposaca,1.0333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2218,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630083,2004-03-31,mariposamariposaca,1.7281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185000.0,,,,,,,,,,,,4.2017,,5.1376,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630084,2004-04-30,mariposamariposaca,1.0133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,198529.4118,,,,,,,,,,,,,,5.6429,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630085,2004-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185550.0,,,,,,,,,,,,,,5.699,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630086,2004-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,220700.0,,,,,,,,,,,,3.125,,5.699,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630087,2004-07-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191500.0,,,,,,,,,,,,,,5.3902,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630088,2004-08-31,mariposamariposaca,0.9722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201500.0,,,,,,,,,,,,,,5.6429,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630089,2004-09-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.671,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630090,2004-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208461.5385,,,,,,,,,,,,,,5.3902,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630091,2004-11-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3902,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630092,2004-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,251153.8462,,,,,,,,,,,,,,5.306,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630093,2005-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,265000.0,,,,,,,,,,,,,,5.4183,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630094,2005-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1937,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630095,2005-03-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,303461.5385,,,,,,,,,,,,5.1282,,5.1376,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630096,2005-04-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7445,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630097,2005-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,318846.1538,,,,,,,,,,,,,,4.7726,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630098,2005-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,266470.5882,,,,,,,,,,,,,,4.6884,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630099,2005-07-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,298150.0,,,,,,,,,,,,,,4.7165,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630100,2005-08-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,285850.0,,,,,,,,,,,,,,4.548,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630101,2005-09-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,303750.0,,,,,,,,,,,,,,4.6322,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630102,2005-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,301750.0,,,,,,,,,,,,,,4.548,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630103,2005-11-30,mariposamariposaca,1.0171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5199,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630104,2005-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2111,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630105,2006-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,295000.0,,,,,,,,,,,,5.8824,,4.2673,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630106,2006-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3234,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630107,2006-03-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2392,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630108,2006-04-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0707,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630109,2006-05-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,345000.0,,,,,,,,,,,,,,3.8462,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630110,2006-06-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6777,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630111,2006-07-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.397,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630112,2006-08-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.032,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630113,2006-09-30,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,275000.0,,,,,,,,,,,,,,3.0882,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630114,2006-10-31,mariposamariposaca,2.1281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9197,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630115,2006-11-30,mariposamariposaca,2.5537,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.032,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630116,2006-12-31,mariposamariposaca,1.3833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1443,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630117,2007-01-31,mariposamariposaca,1.3301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8355,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630118,2007-02-28,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7513,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630119,2007-03-31,mariposamariposaca,2.3153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8355,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630120,2007-04-30,mariposamariposaca,2.4286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0039,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630121,2007-05-31,mariposamariposaca,2.3401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8916,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630122,2007-06-30,mariposamariposaca,3.1107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9478,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630123,2007-07-31,mariposamariposaca,1.7690000000000001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,330000.0,,,,,,,,,,,,5.8824,,3.2847,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630124,2007-08-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2847,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630125,2007-09-30,mariposamariposaca,1.0346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.032,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630126,2007-10-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,300000.0,,,,,,,,,,,,6.25,,3.3127,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630127,2007-11-30,mariposamariposaca,1.2956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2004,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630128,2007-12-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1162,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630129,2008-01-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1443,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630130,2008-02-29,mariposamariposaca,1.064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1443,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630131,2008-03-31,mariposamariposaca,3.7721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1443,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630132,2008-04-30,mariposamariposaca,3.4343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9197,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630133,2008-05-31,mariposamariposaca,7.6709,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9759,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630134,2008-06-30,mariposamariposaca,4.5446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8916,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630135,2008-07-31,mariposamariposaca,2.8257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6109,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630136,2008-08-31,mariposamariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5828,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630137,2008-09-30,mariposamariposaca,4.2748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8355,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630138,2008-10-31,mariposamariposaca,5.7674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.639,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630139,2008-11-30,mariposamariposaca,4.3046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5547,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630140,2008-12-31,mariposamariposaca,5.7006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4986,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630141,2009-01-31,mariposamariposaca,5.1811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3863,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630142,2009-02-28,mariposamariposaca,2.6352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.274,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630143,2009-03-31,mariposamariposaca,5.5787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3302,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630144,2009-04-30,mariposamariposaca,5.5065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4705,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630145,2009-05-31,mariposamariposaca,3.9153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4424,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630146,2009-06-30,mariposamariposaca,5.2891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25.0,,2.667,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630147,2009-07-31,mariposamariposaca,4.0812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5699,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630148,2009-08-31,mariposamariposaca,3.9007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5981,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630149,2009-09-30,mariposamariposaca,4.7729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7255,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630150,2009-10-31,mariposamariposaca,5.8169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6294,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630151,2009-11-30,mariposamariposaca,5.0789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6294,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630152,2009-12-31,mariposamariposaca,5.3135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.739,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630153,2010-01-31,mariposamariposaca,3.7041,94.0,86.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.818,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630154,2010-02-28,mariposamariposaca,2.6672,95.0,88.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.037,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630155,2010-03-31,mariposamariposaca,4.0038,95.0,88.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.1818,,2.0935,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630156,2010-04-30,mariposamariposaca,10.4316,91.0,88.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1501,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630157,2010-05-31,mariposamariposaca,9.4728,89.0,82.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1924,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630158,2010-06-30,mariposamariposaca,8.4988,90.0,93.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1357,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630159,2010-07-31,mariposamariposaca,5.742999999999999,91.0,100.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0759,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630160,2010-08-31,mariposamariposaca,9.6014,90.0,94.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0947,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630161,2010-09-30,mariposamariposaca,9.5326,94.0,102.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.898343677565501,,11.107812362790598,12.1739130434783,,12.389380530973499,,,2.1513,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630162,2010-10-31,mariposamariposaca,7.9051,100.0,108.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.4514551137447,,14.739035179747901,16.260162601626,,16.5289256198347,25.0,,2.3212,,,,,,,,,,,,,,,,,mariposamariposaca,Mariposa,Mariposa,CA
+2630163,2010-11-30,mariposamariposaca,10.2636,104.0,106.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.932345911851499,,16.028928891816097,15.0,,15.126050420168099,,,3.0406,,,,,,,,,,,,1517.0,1519.0,0.924,,1520.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630164,2010-12-31,mariposamariposaca,8.7803,106.0,102.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.1776767628147,,15.5203575669303,13.392857142857098,,12.612612612612601,11.6864,,3.0223,,,,,,,,,,,,1529.0,1532.0,0.93,,1533.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630165,2011-01-31,mariposamariposaca,9.2811,108.0,104.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.2531404445389,,15.2969632849791,14.678899082568801,,14.678899082568801,,,3.0223,,,,,,,,,,,,1530.0,1533.0,0.93,,1534.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630166,2011-02-28,mariposamariposaca,7.4808,106.0,96.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.672363916371191,,8.75969787617513,6.25,,6.25,13.6095,,3.0984,,,,,,,,,,,,1520.0,1522.0,0.922,,1524.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630167,2011-03-31,mariposamariposaca,10.6031,102.0,96.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,190000.0,,,,,,12.0335121360168,,12.0653487250455,11.71875,,11.71875,25.9427,,3.1929,,,,,,,,,,,,1507.0,1510.0,0.912,,1511.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630168,2011-04-30,mariposamariposaca,14.7362,101.0,94.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.238937079878,,18.1773969707852,18.2608695652174,,18.2608695652174,,,3.2307,,,,,,,,,,,,1491.0,1494.0,0.904,,1496.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630169,2011-05-31,mariposamariposaca,16.2994,101.0,102.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.6974624873523,,10.674469861053,11.607142857142902,,11.7117117117117,35.1648,,3.3818,,,,,,,,,,,,1482.0,1483.0,0.9,,1486.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630170,2011-06-30,mariposamariposaca,14.2156,103.0,99.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,225000.0,,,,,,11.6161094110035,,11.853223019785199,10.7438016528926,,10.924369747899199,30.3922,,3.4151,,,,,,,,,,,,1476.0,1477.0,0.898,,1480.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630171,2011-07-31,mariposamariposaca,11.5366,109.0,120.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0105803378897,,10.0595773155679,11.678832116788302,,11.8518518518519,35.5238,,3.471,,,,,,,,,,,,1467.0,1469.0,0.89,,1471.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630172,2011-08-31,mariposamariposaca,9.3173,115.0,124.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.50743777136593,,9.65872107246919,11.7241379310345,,11.8881118881119,32.4722,,3.5654,,,,,,,,,,,,1455.0,1457.0,0.882,,1459.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630173,2011-09-30,mariposamariposaca,10.2826,114.0,124.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.17219182811709,,9.24474762129083,10.4477611940299,,10.5263157894737,40.9722,,3.6024,,,,,,,,,,,,1444.0,1446.0,0.878,,1449.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630174,2011-10-31,mariposamariposaca,8.3404,107.0,112.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.71760830159235,,8.816170165973821,10.5263157894737,,10.606060606060598,41.6667,,3.6024,,,,,,,,,,,,1443.0,1445.0,0.8740000000000001,,1448.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630175,2011-11-30,mariposamariposaca,10.8794,101.0,100.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.66250464201022,,9.70287847164803,8.730158730158731,,8.8,42.3333,,3.6855,,,,,,,,,,,,1448.0,1450.0,0.8740000000000001,,1452.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630176,2011-12-31,mariposamariposaca,8.7842,99.0,98.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.08403221838276,,9.307744954317679,6.2992125984252,,6.4,33.0833,,3.6288,,,,,,,,,,,,1449.0,1450.0,0.8740000000000001,,1452.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630177,2012-01-31,mariposamariposaca,10.2402,96.0,88.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.907574695303392,,9.02142554694811,8.33333333333333,,8.40336134453782,40.0,,3.6855,,,,,,,,,,,,1437.0,1437.0,0.872,,1440.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630178,2012-02-29,mariposamariposaca,10.0452,92.0,85.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.346733664270301,,13.526647028717502,10.924369747899199,,11.0169491525424,33.75,,3.6544,,,,,,,,,,,,1432.0,1433.0,0.87,,1436.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630179,2012-03-31,mariposamariposaca,11.2089,83.0,78.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127500.0,,,,,,6.28491138974813,,6.407204785651589,5.97014925373134,,6.06060606060606,26.6667,,3.7856,,,,,,,,,,,,1420.0,1422.0,0.8640000000000001,,1425.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630180,2012-04-30,mariposamariposaca,10.6322,71.0,64.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.44235322894631,,4.5461570351974405,4.46428571428571,,4.62962962962963,22.2884,,3.8548,,,,,,,,,,,,1411.0,1413.0,0.86,,1416.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630181,2012-05-31,mariposamariposaca,10.3435,60.0,59.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.23317677306662,,6.462758149341281,7.142857142857139,,7.5,19.4103,,3.8361,,,,,,,,,,,,1399.0,1401.0,0.856,,1404.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630182,2012-06-30,mariposamariposaca,8.0444,52.0,52.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4364103222135096,,3.52625586928867,2.56410256410256,,2.5974025974026,24.0008,,3.7987,,,,,,,,,,,,1402.0,1404.0,0.856,,1406.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630183,2012-07-31,mariposamariposaca,8.5145,47.0,56.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,147500.0,,,,,,7.027400395014441,,7.03125487548079,8.69565217391304,,8.823529411764712,23.9052,,3.9296,,,,,,,,,,,,1418.0,1420.0,0.858,,1422.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630184,2012-08-31,mariposamariposaca,9.3384,44.0,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.54800572268439,,9.53531506671025,11.764705882352901,,11.764705882352901,,,3.8174,,,,,,,,,,,,1434.0,1436.0,0.8640000000000001,,1438.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630185,2012-09-30,mariposamariposaca,8.9947,44.0,51.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.43871634837295,,4.432717546102861,5.71428571428571,,5.71428571428571,,,3.7799,,,,,,,,,,,,1434.0,1435.0,0.868,,1438.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630186,2012-10-31,mariposamariposaca,8.3495,52.0,55.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.19129251211866,,6.21010955991321,8.0,,8.0,30.7692,,3.6912,,,,,,,,,,,,1421.0,1422.0,0.8640000000000001,,1425.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630187,2012-11-30,mariposamariposaca,11.1475,63.0,70.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.62465360415918,,8.59518616395573,7.692307692307691,,7.692307692307691,17.5716,,3.7467,,,,,,,,,,,,1404.0,1405.0,0.856,,1408.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630188,2012-12-31,mariposamariposaca,8.1874,67.0,62.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,200000.0,,,,,,14.741341359087999,,14.8642666934481,11.9565217391304,,11.9565217391304,13.782,,3.9341,,,,,,,,,,,,1388.0,1388.0,0.846,,1392.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630189,2013-01-31,mariposamariposaca,7.5372,69.0,63.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.1624766560877,,11.206299496527901,10.5882352941176,,10.5882352941176,10.1704,,3.8779,,,,,,,,,,,,1383.0,1383.0,0.8440000000000001,,1386.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630190,2013-02-28,mariposamariposaca,5.519,72.0,60.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.948679705844901,,13.0360136656488,10.5263157894737,,10.5263157894737,20.4414,,3.8029,,,,,,,,,,,,1373.0,1374.0,0.8420000000000001,,1377.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630191,2013-03-31,mariposamariposaca,4.6956,76.0,71.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.643529259304499,,12.675365848333199,12.3287671232877,,12.3287671232877,26.8388,,3.5781,,,,,,,,,,,,1376.0,1376.0,0.8440000000000001,,1379.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630192,2013-04-30,mariposamariposaca,4.1042,76.0,71.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.18859383045007,,9.12705372135729,9.21052631578947,,9.21052631578947,23.2429,,3.5407,,,,,,,,,,,,1381.0,1381.0,0.8440000000000001,,1384.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630193,2013-05-31,mariposamariposaca,6.2806,74.0,74.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,187000.0,,,,,,13.207966689033,,13.2484724350556,14.117647058823499,,14.285714285714299,16.0144,,3.7842,,,,,,,,,,,,1391.0,1391.0,0.8420000000000001,,1394.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630194,2013-06-30,mariposamariposaca,8.6689,73.0,75.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.7624176482208,,9.917617316829892,9.89010989010989,,8.98876404494382,10.1099,,3.8397,,,,,,,,,,,,1390.0,1390.0,0.838,,1393.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630195,2013-07-31,mariposamariposaca,6.9918,76.0,81.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.70288224172,,10.9736829105246,12.371134020618598,,12.7659574468085,8.0769,,3.7996,,,,,,,,,,,,1374.0,1374.0,0.8320000000000001,,1377.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630196,2013-08-31,mariposamariposaca,6.1016,81.0,94.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,230000.0,,,,,,4.28736488098186,,4.43727585102397,6.504065040650411,,6.66666666666667,9.6461,,3.9894,,,,,,,,,,,,1361.0,1361.0,0.8240000000000001,,1364.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630197,2013-09-30,mariposamariposaca,8.8206,82.0,90.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,174705.8824,,,,,,12.117287776944401,,12.479899721725399,13.392857142857098,,13.761467889908301,7.9031,,4.1966,,,,,,,,,,,,1358.0,1358.0,0.8220000000000001,,1361.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630198,2013-10-31,mariposamariposaca,6.1036,77.0,82.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,198600.0,,,,,,11.0625796408315,,11.2101095599132,12.8712871287129,,13.0,10.1754,,4.1955,,,,,,,,,,,,1355.0,1355.0,0.8220000000000001,,1358.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630199,2013-11-30,mariposamariposaca,2.4963,73.0,76.0,,,,,,,,,,,,,,,237600.0,,,238300.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.563924859219902,,13.6688359184565,12.6315789473684,,12.7659574468085,,,3.97,,,,,,,,,,,,1355.0,1355.0,0.826,,1358.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630200,2013-12-31,mariposamariposaca,2.3357,69.0,64.0,,,,,,,,,,,,,,,249250.0,,,249500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.63097346611141,,6.80384885042158,3.84615384615385,,3.8961038961039,19.5605,,3.764,,,,,,,,,,,,1346.0,1347.0,0.8220000000000001,,1350.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630201,2014-01-31,mariposamariposaca,1.4236,67.0,58.0,,,,,,,,,,,,,,,239000.0,,,242000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7470808681428895,,6.8680642024103,6.172839506172839,,6.25,24.8663,,3.633,,,,,,,,,,,,1352.0,1353.0,0.8240000000000001,,1356.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630202,2014-02-28,mariposamariposaca,,71.0,58.0,,,,,,,,,,,,,,,249000.0,,,249250.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,211000.0,,,,,,6.64771602904725,,6.79541216188942,4.2253521126760605,,4.28571428571429,16.3312,,3.633,,,,,,,,,,,,1356.0,1357.0,0.826,,1359.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630203,2014-03-31,mariposamariposaca,2.1178,82.0,72.0,,,,,,,,,,,,,,,278000.0,,,283500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.53125698137761,,6.7295774484497795,7.21649484536082,,6.38297872340426,14.2832,,3.5393,,,,,,,,,,,,1356.0,1356.0,0.8240000000000001,,1358.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630204,2014-04-30,mariposamariposaca,3.5653,93.0,93.0,,,,,,,,,,,,,,,271750.0,,,271750.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,198692.3077,,,,,,8.994460957283538,,9.16022488455941,9.016393442622949,,9.2436974789916,6.456,,3.5969,,,,,,,,,,,,1341.0,1342.0,0.8220000000000001,,1343.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630205,2014-05-31,mariposamariposaca,4.1067,99.0,96.0,,,,,,,,,,,,,,,272500.0,,,270000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0609078655036,,13.2484724350556,13.970588235294098,,14.285714285714299,11.6827,,3.372,,,,,,,,,,,,1329.0,1330.0,0.8140000000000001,,1330.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630206,2014-06-30,mariposamariposaca,5.1585,105.0,112.0,,,,,,,,,,,,,,,265000.0,,,265000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.3613588530015,,10.5584829015157,9.48905109489051,,9.629629629629632,,,3.2784,,,,,,,,,,,,1322.0,1323.0,0.8079999999999999,,1324.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630207,2014-07-31,mariposamariposaca,4.7823,105.0,117.0,,,,,,,,,,,,,,,265000.0,,,265000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.26278270386,,16.3895436455343,17.9310344827586,,18.181818181818198,17.1475,,3.3908,,,,,,,,,,,,1329.0,1331.0,0.8059999999999999,,1331.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630208,2014-08-31,mariposamariposaca,4.4489,100.0,105.0,,,,,,,,,,,,,,,259000.0,,,259000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168000.0,,,,,,16.533299840331498,,16.210325496414,18.75,,18.4397163120567,6.8628,,3.3346,,,,,,,,,,,,1335.0,1337.0,0.8079999999999999,,1338.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630209,2014-09-30,mariposamariposaca,5.2564,101.0,110.0,,,,,,,,,,,,,,,259000.0,,,259450.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.104712324228101,,11.668072119586899,13.3802816901408,,12.949640287769801,,,3.1847,,,,,,,,,,,,1350.0,1352.0,0.8140000000000001,,1352.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630210,2014-10-31,mariposamariposaca,3.9178,103.0,110.0,,,,,,,,,,,,,,,259450.0,,,259900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,173384.6154,,,,,,17.072411393237502,,16.7815381313418,18.881118881118898,,18.5714285714286,,,3.1660000000000004,,,,,,,,,,,,1360.0,1362.0,0.8140000000000001,,1362.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630211,2014-11-30,mariposamariposaca,3.7292,105.0,104.0,,,,,,,,,,,,,,,250000.0,,,250000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.182345911851491,,7.28585719505229,6.25,,6.38297872340426,6.25,,3.3158,,,,,,,,,,,,1374.0,1376.0,0.818,,1376.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630212,2014-12-31,mariposamariposaca,2.801,107.0,105.0,,,,,,,,,,,,,,,249900.0,,,249900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,226800.0,,,,,,10.137760796428198,,10.4835025300753,7.35294117647059,,7.57575757575758,4.375,,3.372,,,,,,,,,,,,1386.0,1387.0,0.818,,1387.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630213,2015-01-31,mariposamariposaca,2.3927,106.0,97.0,,,,,,,,,,,,,,,250000.0,,,249950.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,221350.0,,,,,,9.35802514575384,,9.70897329331939,8.78378378378378,,9.09090909090909,,,3.4845,,,,,,,,,,,,1390.0,1392.0,0.818,,1392.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630214,2015-02-28,mariposamariposaca,3.0814,103.0,92.0,,,,,,,,,,,,,,,249900.0,,,249900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.4223639163712,,12.909697876175098,10.0,,10.4,,,3.5032,,,,,,,,,,,,1400.0,1402.0,0.82,,1402.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630215,2015-03-31,mariposamariposaca,2.7815,103.0,90.0,,,,,,,,,,,,,,,253500.0,,,252000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.870317691572302,,16.2556896341364,15.555555555555598,,15.909090909090901,,,3.4657,,,,,,,,,,,,1408.0,1410.0,0.8240000000000001,,1410.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630216,2015-04-30,mariposamariposaca,3.3438,110.0,106.0,,,,,,,,,,,,,,,252000.0,,,252000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,285000.0,,,,,,14.263781800374902,,14.374358730869,14.285714285714299,,14.457831325301198,8.0972,,3.5781,,,,,,,,,,,,1420.0,1421.0,0.828,,1421.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630217,2015-05-31,mariposamariposaca,3.7519,117.0,121.0,,,,,,,,,,,,,,,253500.0,,,255000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,258529.4118,,,,,,7.613046902936749,,7.53418672076985,8.52272727272727,,8.571428571428571,17.1221,,3.7093,,,,,,,,,,,,1421.0,1423.0,0.83,,1423.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630218,2015-06-30,mariposamariposaca,3.0854,118.0,124.0,,,,,,,,,,,,,,,252000.0,,,252000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.7532601390633,,15.9890942357415,14.880952380952401,,15.0602409638554,15.4376,,3.7842,,,,,,,,,,,,1418.0,1420.0,0.8320000000000001,,1420.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630219,2015-07-31,mariposamariposaca,5.3587,114.0,121.0,,,,,,,,,,,,,,,253500.0,,,253500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213076.9231,,,,,,14.3080795820481,,14.3753901343748,15.976331360946698,,16.1676646706587,16.7268,,3.8591,,,,,,,,,,,,1410.0,1411.0,0.8320000000000001,,1411.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630220,2015-08-31,mariposamariposaca,4.1126,110.0,122.0,,,,,,,,,,,,,,,239475.0,,,239475.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,231470.5882,,,,,,14.752996810028401,,14.948523294786801,16.969696969697,,17.177914110429402,12.5865,,3.9715,,,,,,,,,,,,1406.0,1408.0,0.8320000000000001,,1408.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630221,2015-09-30,mariposamariposaca,5.9653,106.0,110.0,,,,,,,,,,,,,,,235000.0,,,237450.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.692172569571099,,9.902642358132939,10.967741935483902,,11.184210526315802,8.5486,,4.1401,,,,,,,,,,,,1409.0,1411.0,0.836,,1411.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630222,2015-10-31,mariposamariposaca,3.1462,105.0,114.0,,,,,,,,,,,,,,,245000.0,,,245000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.879604200430348,,10.130639361237698,11.688311688311698,,11.9205298013245,5.8804,,4.2338,,,,,,,,,,,,1410.0,1413.0,0.84,,1412.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630223,2015-11-30,mariposamariposaca,1.2209999999999999,102.0,101.0,,,,,,,,,,,,,,,250000.0,,,250000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,230000.0,,,,,,9.44298420972383,,9.66200255923927,8.51063829787234,,8.75912408759124,2.6755,,4.1589,,,,,,,,,,,,1408.0,1410.0,0.84,,1409.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630224,2015-12-31,mariposamariposaca,3.089,98.0,95.0,,,,,,,,,,,,,,,249000.0,,,250000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.62423567835173,,8.922782548302651,5.839416058394161,,6.01503759398496,,,4.1589,,,,,,,,,,,,1403.0,1404.0,0.84,,1404.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630225,2016-01-31,mariposamariposaca,4.1488,95.0,82.0,,,,,,,,,,,,,,,264900.0,,,268500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.971187926855551,,9.27948152524494,8.3969465648855,,8.66141732283465,5.8823,,4.1776,,,,,,,,,,,,1397.0,1398.0,0.84,,1397.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630226,2016-02-29,mariposamariposaca,3.3239,92.0,84.0,,,,,,,,,,,,,,,268500.0,,,268500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.3654533472655,,11.6006069670842,8.943089430894311,,9.09090909090909,4.1176,,4.2338,,,,,,,,,,,,1396.0,1397.0,0.84,,1397.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630227,2016-03-31,mariposamariposaca,2.3477,87.0,76.0,,,,,,,,,,,,,,,275450.0,,,275450.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170000.0,,,,,,12.2550606434795,,12.467810846257601,11.9402985074627,,12.121212121212098,,,4.3649,,,,,,,,,,,,1401.0,1401.0,0.846,,1401.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630228,2016-04-30,mariposamariposaca,3.0837,81.0,78.0,,,,,,,,,,,,,,,289500.0,,,290000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,187647.0588,,,,,,9.83722244423806,,9.98846985161098,9.859154929577462,,10.071942446043199,2.7778,,4.3275,,,,,,,,,,,,1413.0,1413.0,0.8540000000000001,,1413.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630229,2016-05-31,mariposamariposaca,1.7483,76.0,78.0,,,,,,,,,,,,,,,289500.0,,,290000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,210500.0,,,,,,6.6245662055519405,,6.65506584164897,7.534246575342469,,7.692307692307691,5.5159,,4.1776,,,,,,,,,,,,1424.0,1424.0,0.8640000000000001,,1423.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630230,2016-06-30,mariposamariposaca,,73.0,76.0,,,,,,,,,,,,,,,275000.0,,,275000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.25485809368141,,8.46309984722853,7.38255033557047,,7.534246575342469,5.5073,,4.2713,,,,,,,,,,,,1430.0,1429.0,0.87,,1429.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630231,2016-07-31,mariposamariposaca,,74.0,84.0,,,,,,,,,,,,,,,279000.0,,,279000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.188891078244259,,6.23692254400805,7.857142857142861,,8.02919708029197,8.5932,,4.2338,,,,,,,,,,,,1430.0,1429.0,0.8740000000000001,,1429.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630232,2016-08-31,mariposamariposaca,0.9905,74.0,86.0,,,,,,,,,,,,,,,280000.0,,,280000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.55253060956222,,8.70810918435731,10.7692307692308,,10.9375,9.6141,,4.1589,,,,,,,,,,,,1426.0,1425.0,0.872,,1426.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630233,2016-09-30,mariposamariposaca,,71.0,78.0,,,,,,,,,,,,,,,287000.0,,,287000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.978667922222801,,14.2356732111275,15.2542372881356,,15.5172413793103,5.1333,,3.9528,,,,,,,,,,,,1431.0,1430.0,0.872,,1430.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630234,2016-10-31,mariposamariposaca,,66.0,73.0,,,,,,,,,,,,,,,277950.0,,,280000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.74866956129899,,4.9327986355434605,6.55737704918033,,6.7226890756302495,,,3.8029,,,,,,,,,,,,1433.0,1433.0,0.872,,1433.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630235,2016-11-30,mariposamariposaca,,60.0,58.0,,,,,,,,,,,,,,,259000.0,,,266000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.436410952501889,,7.62556754727829,6.504065040650411,,6.7226890756302495,,,3.728,,,,,,,,,,,,1438.0,1440.0,0.872,,1439.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630236,2016-12-31,mariposamariposaca,,59.0,52.0,,,,,,,,,,,,,,,274950.0,,,275900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.558404525617941,,6.79124009994875,3.77358490566038,,3.8834951456310693,5.8824,,3.728,,,,,,,,,,,,1443.0,1444.0,0.8740000000000001,,1444.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630237,2017-01-31,mariposamariposaca,1.0589,61.0,52.0,,,,,,,,,,,,,,,317900.0,,,317900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.39242318015187,,7.594808388456809,6.81818181818182,,6.97674418604651,6.3438,,3.7093,,,,,,,,,,,,1448.0,1450.0,0.8740000000000001,,1450.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630238,2017-02-28,mariposamariposaca,1.7587,62.0,50.0,,,,,,,,,,,,,,,300000.0,,,300000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.16393695007906,,9.40624960031306,6.74157303370786,,6.89655172413793,9.8824,,3.6905,,,,,,,,,,,,1452.0,1454.0,0.8759999999999999,,1454.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630239,2017-03-31,mariposamariposaca,2.0744,61.0,51.0,,,,,,,,,,,,,,,325000.0,,,325000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.197115077193249,,6.407204785651589,5.882352941176469,,6.06060606060606,10.2121,,3.6343,,,,,,,,,,,,1457.0,1459.0,0.8759999999999999,,1459.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630240,2017-04-30,mariposamariposaca,1.0364,62.0,58.0,,,,,,,,,,,,,,,285000.0,,,287500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.23494824860555,,8.40709344330366,8.25688073394495,,8.49056603773585,17.6818,,3.447,,,,,,,,,,,,1463.0,1466.0,0.8759999999999999,,1466.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630241,2017-05-31,mariposamariposaca,1.3601,64.0,67.0,,,,,,,,,,,,,,,299000.0,,,299499.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.802031341921198,,10.9997951863783,11.7117117117117,,12.037037037037,,,3.3158,,,,,,,,,,,,1473.0,1476.0,0.878,,1476.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630242,2017-06-30,mariposamariposaca,,63.0,70.0,,,,,,,,,,,,,,,290000.0,,,295000.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.838119723922901,,13.318233802859499,11.965811965812,,12.389380530973499,,,3.0348,,,,,,,,,,,,1483.0,1487.0,0.884,,1487.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630243,2017-07-31,mariposamariposaca,,60.0,69.0,,,,,,,,,,,,,,,279450.0,,,279900.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.4529603423135,,10.7077254637161,12.121212121212098,,12.5,,,2.6789,,,,,,,,,,,,1496.0,1500.0,0.89,,1499.0,mariposamariposaca,Mariposa,Mariposa,CA
+2630244,2017-08-31,mariposamariposaca,,59.0,69.0,,,,,,,,,,,,,,,284500.0,,,284750.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.605082018549302,,16.137956123132803,17.8217821782178,,18.367346938775498,,,2.2855,,,,,,,,,,,,1507.0,1510.0,0.898,,1510.0,mariposamariposaca,Mariposa,Mariposa,CA
+2869385,1998-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869386,1998-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869387,1998-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869388,1998-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8360000000000003,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869389,1998-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869390,1998-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869391,1998-07-31,coultervillemariposaca,4.7126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869392,1998-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869393,1998-09-30,coultervillemariposaca,6.1666,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869394,1998-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869395,1998-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869396,1998-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869397,1999-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869398,1999-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869399,1999-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869400,1999-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6991,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869401,1999-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869402,1999-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8360000000000003,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869403,1999-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869404,1999-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2195,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869405,1999-09-30,coultervillemariposaca,4.7529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869406,1999-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9593,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869407,1999-11-30,coultervillemariposaca,6.0257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869408,1999-12-31,coultervillemariposaca,7.8282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869409,2000-01-31,coultervillemariposaca,4.6057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869410,2000-02-29,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869411,2000-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5758,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869412,2000-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8224,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869413,2000-05-31,coultervillemariposaca,4.5454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3157,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869414,2000-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5623,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869415,2000-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9322,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869416,2000-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.672000000000001,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869417,2000-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4254,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869418,2000-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3021,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869419,2000-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9322,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869420,2000-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8089,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869421,2001-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5623,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869422,2001-02-28,coultervillemariposaca,7.2296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0555,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869423,2001-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3021,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869424,2001-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9322,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869425,2001-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8089,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869426,2001-06-30,coultervillemariposaca,4.5454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6856,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869427,2001-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8089,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869428,2001-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1924,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869429,2001-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3157,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869430,2001-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5623,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869431,2001-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.439,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869432,2001-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1924,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869433,2002-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3157,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869434,2002-02-28,coultervillemariposaca,4.6083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.439,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869435,2002-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1924,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869436,2002-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1924,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869437,2002-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0691,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869438,2002-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0691,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869439,2002-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0691,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869440,2002-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6856,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869441,2002-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8089,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869442,2002-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.439,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869443,2002-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9322,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869444,2002-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3021,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869445,2003-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2885,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869446,2003-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.1652,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869447,2003-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0419,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869448,2003-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7818,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869449,2003-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5351,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869450,2003-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1517,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869451,2003-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1517,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869452,2003-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7818,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869453,2003-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7818,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869454,2003-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1517,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869455,2003-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0284,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869456,2003-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0284,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869457,2004-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0419,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869458,2004-02-29,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.672000000000001,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869459,2004-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.1652,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869460,2004-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.672000000000001,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869461,2004-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2885,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869462,2004-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.4118,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869463,2004-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9186,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869464,2004-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7953,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869465,2004-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7953,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869466,2004-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9186,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869467,2004-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0419,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869468,2004-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7953,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869469,2005-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5351,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869470,2005-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5351,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869471,2005-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.6584,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869472,2005-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9051,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869473,2005-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7818,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869474,2005-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2885,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869475,2005-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9051,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869476,2005-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6449,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869477,2005-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6449,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869478,2005-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3983,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869479,2005-11-30,coultervillemariposaca,4.6083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6449,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869480,2005-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.8915,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869481,2006-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1517,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869482,2006-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1517,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869483,2006-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9051,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869484,2006-04-30,coultervillemariposaca,4.7529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0419,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869485,2006-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4254,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869486,2006-06-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1788,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869487,2006-07-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.439,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869488,2006-08-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6991,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869489,2006-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869490,2006-10-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869491,2006-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4661,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869492,2006-12-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0962,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869493,2007-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2195,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869494,2007-02-28,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4661,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869495,2007-03-31,coultervillemariposaca,4.7529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9729,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869496,2007-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2195,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869497,2007-05-31,coultervillemariposaca,6.1787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4661,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869498,2007-06-30,coultervillemariposaca,7.8724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869499,2007-07-31,coultervillemariposaca,13.6986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869500,2007-08-31,coultervillemariposaca,7.7273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869501,2007-09-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869502,2007-10-31,coultervillemariposaca,4.5454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9593,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869503,2007-11-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869504,2007-12-31,coultervillemariposaca,6.1165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4525,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869505,2008-01-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869506,2008-02-29,coultervillemariposaca,9.5057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9593,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869507,2008-03-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869508,2008-04-30,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8360000000000003,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869509,2008-05-31,coultervillemariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869510,2008-06-30,coultervillemariposaca,4.7529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8360000000000003,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869511,2008-07-31,coultervillemariposaca,7.8724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7127,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869512,2008-08-31,coultervillemariposaca,4.6077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3428,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869513,2008-09-30,coultervillemariposaca,15.0873,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869514,2008-10-31,coultervillemariposaca,9.6066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869515,2008-11-30,coultervillemariposaca,13.1669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869516,2008-12-31,coultervillemariposaca,6.3348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3428,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869517,2009-01-31,coultervillemariposaca,191.3942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5894,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869518,2009-02-28,coultervillemariposaca,489.2183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0826,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869519,2009-03-31,coultervillemariposaca,311.0168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2059,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869520,2009-04-30,coultervillemariposaca,110.23200000000001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869521,2009-05-31,coultervillemariposaca,10.5405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3292,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869522,2009-06-30,coultervillemariposaca,20.088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8224,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869523,2009-07-31,coultervillemariposaca,16.8559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1302,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869524,2009-08-31,coultervillemariposaca,16.4219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5056,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869525,2009-09-30,coultervillemariposaca,7.768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3424,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869526,2009-10-31,coultervillemariposaca,11.8356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6366,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869527,2009-11-30,coultervillemariposaca,19.8286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8872,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869528,2009-12-31,coultervillemariposaca,12.1528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3269,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869529,2010-01-31,coultervillemariposaca,17.8644,39.0,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5673,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869530,2010-02-28,coultervillemariposaca,9.6774,40.0,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0453,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869531,2010-03-31,coultervillemariposaca,8.5605,44.0,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0453,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869532,2010-04-30,coultervillemariposaca,11.9153,42.0,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2922,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869533,2010-05-31,coultervillemariposaca,7.5022,38.0,35.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0453,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869534,2010-06-30,coultervillemariposaca,58.2034,36.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0453,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869535,2010-07-31,coultervillemariposaca,,36.0,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1379,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869536,2010-08-31,coultervillemariposaca,,37.0,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0553,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869537,2010-09-30,coultervillemariposaca,8.7643,37.0,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2205,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869538,2010-10-31,coultervillemariposaca,10.7433,36.0,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1379,,,,,,,,,,,,,,,,,coultervillemariposaca,Coulterville,Mariposa,CA
+2869539,2010-11-30,coultervillemariposaca,5.8551,36.0,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4711,,,,,,,,,,,,1398.0,1397.0,0.8759999999999999,,1397.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869540,2010-12-31,coultervillemariposaca,10.5316,39.0,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4682,,,,,,,,,,,,1401.0,1399.0,0.8759999999999999,,1400.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869541,2011-01-31,coultervillemariposaca,129.8612,45.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5508,,,,,,,,,,,,1403.0,1401.0,0.8740000000000001,,1402.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869542,2011-02-28,coultervillemariposaca,93.5776,50.0,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6334,,,,,,,,,,,,1398.0,1396.0,0.8740000000000001,,1397.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869543,2011-03-31,coultervillemariposaca,53.3188,52.0,53.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7985,,,,,,,,,,,,1394.0,1393.0,0.872,,1393.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869544,2011-04-30,coultervillemariposaca,19.3849,51.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7159,,,,,,,,,,,,1386.0,1383.0,0.872,,1383.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869545,2011-05-31,coultervillemariposaca,19.227,50.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9637,,,,,,,,,,,,1386.0,1384.0,0.868,,1384.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869546,2011-06-30,coultervillemariposaca,13.6198,53.0,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.786,,,,,,,,,,,,1385.0,1382.0,0.86,,1383.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869547,2011-07-31,coultervillemariposaca,23.4816,59.0,60.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7037,,,,,,,,,,,,1376.0,1374.0,0.852,,1374.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869548,2011-08-31,coultervillemariposaca,18.1651,64.0,65.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7037,,,,,,,,,,,,1359.0,1357.0,0.8440000000000001,,1358.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869549,2011-09-30,coultervillemariposaca,17.4102,66.0,67.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8683,,,,,,,,,,,,1355.0,1353.0,0.846,,1353.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869550,2011-10-31,coultervillemariposaca,16.8654,67.0,68.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0329,,,,,,,,,,,,1363.0,1361.0,0.846,,1361.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869551,2011-11-30,coultervillemariposaca,9.1578,71.0,75.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6274,,,,,,,,,,,,1373.0,1370.0,0.846,,1371.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869552,2011-12-31,coultervillemariposaca,7.3631,74.0,76.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5449,,,,,,,,,,,,1377.0,1374.0,0.8440000000000001,,1375.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869553,2012-01-31,coultervillemariposaca,20.6994,74.0,74.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8747,,,,,,,,,,,,1370.0,1368.0,0.8440000000000001,,1368.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869554,2012-02-29,coultervillemariposaca,27.5797,68.0,76.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0098,,,,,,,,,,,,1369.0,1368.0,0.846,,1369.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869555,2012-03-31,coultervillemariposaca,43.1173,55.0,46.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0917,,,,,,,,,,,,1363.0,1363.0,0.8440000000000001,,1363.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869556,2012-04-30,coultervillemariposaca,28.2181,47.0,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2518,,,,,,,,,,,,1353.0,1353.0,0.84,,1353.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869557,2012-05-31,coultervillemariposaca,11.4733,48.0,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1701,,,,,,,,,,,,1337.0,1336.0,0.836,,1336.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869558,2012-06-30,coultervillemariposaca,,47.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0065,,,,,,,,,,,,1332.0,1331.0,0.8340000000000001,,1331.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869559,2012-07-31,coultervillemariposaca,,42.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9248,,,,,,,,,,,,1345.0,1344.0,0.8340000000000001,,1345.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869560,2012-08-31,coultervillemariposaca,13.2744,40.0,37.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0883,,,,,,,,,,,,1370.0,1370.0,0.84,,1370.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869561,2012-09-30,coultervillemariposaca,31.4159,41.0,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2518,,,,,,,,,,,,1384.0,1383.0,0.848,,1383.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869562,2012-10-31,coultervillemariposaca,23.8818,42.0,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4262,,,,,,,,,,,,1376.0,1375.0,0.852,,1375.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869563,2012-11-30,coultervillemariposaca,14.2883,40.0,46.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4262,,,,,,,,,,,,1355.0,1353.0,0.85,,1353.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869564,2012-12-31,coultervillemariposaca,17.662,34.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8361,,,,,,,,,,,,1333.0,1332.0,0.846,,1332.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869565,2013-01-31,coultervillemariposaca,14.9113,30.0,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5902,,,,,,,,,,,,1322.0,1321.0,0.84,,1321.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869566,2013-02-28,coultervillemariposaca,6.9795,30.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5082,,,,,,,,,,,,1310.0,1309.0,0.8320000000000001,,1309.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869567,2013-03-31,coultervillemariposaca,10.4882,33.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6721,,,,,,,,,,,,1309.0,1307.0,0.828,,1309.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869568,2013-04-30,coultervillemariposaca,6.4279,34.0,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5082,,,,,,,,,,,,1308.0,1306.0,0.828,,1308.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869569,2013-05-31,coultervillemariposaca,,31.0,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7541,,,,,,,,,,,,1305.0,1305.0,0.828,,1306.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869570,2013-06-30,coultervillemariposaca,,29.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7541,,,,,,,,,,,,1295.0,1295.0,0.8240000000000001,,1295.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869571,2013-07-31,coultervillemariposaca,,27.0,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1624,,,,,,,,,,,,1277.0,1277.0,0.82,,1277.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869572,2013-08-31,coultervillemariposaca,4.7938,25.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2456,,,,,,,,,,,,1258.0,1257.0,0.816,,1258.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869573,2013-09-30,coultervillemariposaca,,25.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9958,,,,,,,,,,,,1249.0,1248.0,0.812,,1249.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869574,2013-10-31,coultervillemariposaca,,25.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,1238.0,1237.0,0.8079999999999999,,1238.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869575,2013-11-30,coultervillemariposaca,4.6512,23.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.082,,,,,,,,,,,,1243.0,1242.0,0.8079999999999999,,1243.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869576,2013-12-31,coultervillemariposaca,7.9728,22.0,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6721,,,,,,,,,,,,1244.0,1243.0,0.8079999999999999,,1244.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869577,2014-01-31,coultervillemariposaca,4.6972,22.0,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5902,,,,,,,,,,,,1250.0,1248.0,0.8140000000000001,,1249.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869578,2014-02-28,coultervillemariposaca,10.1793,21.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.8282,,,,,,,,,,,,1249.0,1248.0,0.82,,1248.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869579,2014-03-31,coultervillemariposaca,10.8421,24.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.419,,,,,,,,,,,,1247.0,1247.0,0.82,,1246.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869580,2014-04-30,coultervillemariposaca,5.9258,30.0,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1803,,,,,,,,,,,,1242.0,1242.0,0.816,,1241.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869581,2014-05-31,coultervillemariposaca,,37.0,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7705,,,,,,,,,,,,1236.0,1237.0,0.8079999999999999,,1235.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869582,2014-06-30,coultervillemariposaca,4.3783,40.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0164,,,,,,,,,,,,1234.0,1235.0,0.81,,1233.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869583,2014-07-31,coultervillemariposaca,,42.0,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5246,,,,,,,,,,,,1239.0,1239.0,0.8140000000000001,,1237.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869584,2014-08-31,coultervillemariposaca,,41.0,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6885,,,,,,,,,,,,1242.0,1243.0,0.818,,1241.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869585,2014-09-30,coultervillemariposaca,8.9605,39.0,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,1251.0,1253.0,0.82,,1250.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869586,2014-10-31,coultervillemariposaca,6.2724,37.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,1260.0,1262.0,0.818,,1260.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869587,2014-11-30,coultervillemariposaca,7.4007,37.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7705,,,,,,,,,,,,1264.0,1267.0,0.816,,1265.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869588,2014-12-31,coultervillemariposaca,,36.0,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6885,,,,,,,,,,,,1271.0,1274.0,0.818,,1271.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869589,2015-01-31,coultervillemariposaca,,32.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6885,,,,,,,,,,,,1269.0,1272.0,0.818,,1270.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869590,2015-02-28,coultervillemariposaca,,32.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6066,,,,,,,,,,,,1275.0,1277.0,0.8220000000000001,,1275.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869591,2015-03-31,coultervillemariposaca,,34.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9344,,,,,,,,,,,,1270.0,1272.0,0.826,,1271.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869592,2015-04-30,coultervillemariposaca,4.5085,35.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5082,,,,,,,,,,,,1270.0,1272.0,0.83,,1271.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869593,2015-05-31,coultervillemariposaca,,35.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7541,,,,,,,,,,,,1270.0,1274.0,0.8340000000000001,,1273.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869594,2015-06-30,coultervillemariposaca,,34.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4262,,,,,,,,,,,,1275.0,1278.0,0.838,,1277.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869595,2015-07-31,coultervillemariposaca,4.717,33.0,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4262,,,,,,,,,,,,1274.0,1276.0,0.8420000000000001,,1275.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869596,2015-08-31,coultervillemariposaca,,31.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2623,,,,,,,,,,,,1269.0,1269.0,0.84,,1269.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869597,2015-09-30,coultervillemariposaca,6.1321,26.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,1276.0,1274.0,0.8420000000000001,,1274.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869598,2015-10-31,coultervillemariposaca,,22.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,1277.0,1273.0,0.8440000000000001,,1273.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869599,2015-11-30,coultervillemariposaca,5.9897,21.0,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3443,,,,,,,,,,,,1277.0,1273.0,0.848,,1273.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869600,2015-12-31,coultervillemariposaca,7.9192,23.0,25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3443,,,,,,,,,,,,1282.0,1276.0,0.852,,1276.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869601,2016-01-31,coultervillemariposaca,9.1869,24.0,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5082,,,,,,,,,,,,1289.0,1283.0,0.8540000000000001,,1283.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869602,2016-02-29,coultervillemariposaca,4.574,25.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2623,,,,,,,,,,,,1296.0,1291.0,0.852,,1290.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869603,2016-03-31,coultervillemariposaca,5.8664,28.0,25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2623,,,,,,,,,,,,1310.0,1305.0,0.852,,1305.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869604,2016-04-30,coultervillemariposaca,,30.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9344,,,,,,,,,,,,1325.0,1320.0,0.86,,1319.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869605,2016-05-31,coultervillemariposaca,,30.0,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6066,,,,,,,,,,,,1337.0,1329.0,0.87,,1329.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869606,2016-06-30,coultervillemariposaca,,29.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6885,,,,,,,,,,,,1337.0,1329.0,0.8740000000000001,,1329.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869607,2016-07-31,coultervillemariposaca,,28.0,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6885,,,,,,,,,,,,1331.0,1323.0,0.872,,1323.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869608,2016-08-31,coultervillemariposaca,,29.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5246,,,,,,,,,,,,1322.0,1319.0,0.868,,1318.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869609,2016-09-30,coultervillemariposaca,,32.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3607,,,,,,,,,,,,1326.0,1324.0,0.87,,1323.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869610,2016-10-31,coultervillemariposaca,,34.0,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1967,,,,,,,,,,,,1322.0,1322.0,0.87,,1321.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869611,2016-11-30,coultervillemariposaca,4.717,35.0,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1148,,,,,,,,,,,,1317.0,1319.0,0.872,,1318.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869612,2016-12-31,coultervillemariposaca,12.4511,35.0,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5246,,,,,,,,,,,,1315.0,1319.0,0.872,,1318.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869613,2017-01-31,coultervillemariposaca,16.8448,35.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2787,,,,,,,,,,,,1314.0,1318.0,0.868,,1317.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869614,2017-02-28,coultervillemariposaca,9.0624,34.0,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3607,,,,,,,,,,,,1314.0,1317.0,0.868,,1316.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869615,2017-03-31,coultervillemariposaca,11.7004,30.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1967,,,,,,,,,,,,1311.0,1314.0,0.87,,1313.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869616,2017-04-30,coultervillemariposaca,6.295,25.0,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1148,,,,,,,,,,,,1317.0,1321.0,0.87,,1321.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869617,2017-05-31,coultervillemariposaca,,22.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0328,,,,,,,,,,,,1326.0,1331.0,0.8740000000000001,,1331.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869618,2017-06-30,coultervillemariposaca,,22.0,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9508,,,,,,,,,,,,1338.0,1344.0,0.8759999999999999,,1344.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869619,2017-07-31,coultervillemariposaca,,23.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9508,,,,,,,,,,,,1353.0,1359.0,0.884,,1359.0,coultervillemariposaca,Coulterville,Mariposa,CA
+2869620,2017-08-31,coultervillemariposaca,,23.0,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7049,,,,,,,,,,,,1369.0,1375.0,0.894,,1375.0,coultervillemariposaca,Coulterville,Mariposa,CA
+3099497,1998-02-28,midpinesmariposaca,23.912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099498,1999-01-31,midpinesmariposaca,23.912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099499,2000-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099500,2000-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099501,2000-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5085,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099502,2000-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9322,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099503,2000-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9322,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099504,2000-12-31,midpinesmariposaca,23.912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5085,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099505,2001-01-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3559,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099506,2001-02-28,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5085,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099507,2001-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099508,2001-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099509,2001-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9322,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099510,2001-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099511,2001-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099512,2001-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099513,2001-10-31,midpinesmariposaca,47.0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099514,2001-11-30,midpinesmariposaca,25.1844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099515,2001-12-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099516,2003-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099517,2003-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5085,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099518,2003-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099519,2003-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099520,2004-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099521,2004-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099522,2004-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099523,2004-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099524,2005-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099525,2005-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099526,2005-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0847,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099527,2005-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6610000000000005,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099528,2011-04-30,midpinesmariposaca,96.1538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099529,2012-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7045,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099530,2012-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9886,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099531,2012-06-30,midpinesmariposaca,73.5294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5568,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099532,2012-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8409,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099533,2012-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5568,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099534,2012-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5568,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099535,2012-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099536,2012-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099537,2012-12-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099538,2013-01-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099539,2013-02-28,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099540,2013-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099541,2013-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099542,2013-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099543,2013-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.125,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099544,2013-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5641,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099545,2013-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5641,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099546,2013-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1339,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099547,2013-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099548,2013-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099549,2013-12-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9886,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099550,2014-01-31,midpinesmariposaca,40.1606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9886,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099551,2014-02-28,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.9886,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099552,2014-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099553,2014-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1161,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099554,2014-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8329,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099555,2014-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099556,2014-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099557,2014-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099558,2014-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099559,2014-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099560,2014-11-30,midpinesmariposaca,40.1606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099561,2014-12-31,midpinesmariposaca,89.1584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099562,2015-01-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099563,2015-02-28,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099564,2015-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099565,2015-04-30,midpinesmariposaca,23.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099566,2015-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099567,2015-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8329,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099568,2015-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8329,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099569,2015-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1161,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099570,2015-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3994,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099571,2015-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6827,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099572,2015-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1161,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099573,2015-12-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1161,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099574,2016-01-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3994,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099575,2016-02-29,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3994,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099576,2016-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3994,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099577,2016-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5496,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099578,2016-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099579,2016-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099580,2016-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099581,2016-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099582,2016-09-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4164,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099583,2016-10-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099584,2016-11-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099585,2016-12-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099586,2017-01-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6997,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099587,2017-02-28,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099588,2017-03-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099589,2017-04-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2663,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099590,2017-05-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099591,2017-06-30,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099592,2017-07-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3099593,2017-08-31,midpinesmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.983,,,,,,,,,,,,,,,,,midpinesmariposaca,Midpines,Mariposa,CA
+3129937,1998-04-30,catheys_valleymariposaca,13.7741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129938,1998-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129939,1998-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129940,1998-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129941,1998-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129942,1999-09-30,catheys_valleymariposaca,16.2048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129943,2001-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129944,2001-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129945,2001-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9645,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129946,2001-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129947,2002-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9645,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129948,2002-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129949,2002-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3191,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129950,2002-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3191,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129951,2002-05-31,catheys_valleymariposaca,21.1909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129952,2002-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3191,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129953,2002-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0284,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129954,2002-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3191,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129955,2002-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129956,2002-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129957,2003-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129958,2003-07-31,catheys_valleymariposaca,16.2048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129959,2003-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129960,2003-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129961,2003-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129962,2003-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129963,2003-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129964,2004-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129965,2004-02-29,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129966,2004-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129967,2004-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129968,2004-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129969,2004-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129970,2004-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129971,2004-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9645,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129972,2004-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129973,2004-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129974,2004-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0284,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129975,2004-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.382999999999999,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129976,2005-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129977,2005-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0284,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129978,2005-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0284,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129979,2005-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129980,2005-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129981,2005-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0284,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129982,2005-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129983,2005-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129984,2005-09-30,catheys_valleymariposaca,16.2048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6738,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129985,2005-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6099,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129986,2005-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9007,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129987,2008-07-31,catheys_valleymariposaca,20.404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129988,2009-06-30,catheys_valleymariposaca,13.2626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129989,2009-07-31,catheys_valleymariposaca,23.0579,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129990,2009-08-31,catheys_valleymariposaca,13.6206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129991,2009-10-31,catheys_valleymariposaca,26.178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129992,2009-11-30,catheys_valleymariposaca,18.3246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129993,2010-02-28,catheys_valleymariposaca,500.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5287,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129994,2010-03-31,catheys_valleymariposaca,221.4854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7586,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129995,2010-04-30,catheys_valleymariposaca,98.0579,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7586,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129996,2010-05-31,catheys_valleymariposaca,13.6206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5463,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129997,2010-06-30,catheys_valleymariposaca,31.6804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129998,2010-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5882,,,,,,,,,,,,,,,,,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3129999,2010-11-30,catheys_valleymariposaca,21.1909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0660000000000003,,,,,,,,,,,,1807.0,1801.0,,,1808.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130000,2010-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3097,,,,,,,,,,,,1806.0,1797.0,,,1810.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130001,2011-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5461,,,,,,,,,,,,1803.0,1797.0,,,1808.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130002,2011-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5461,,,,,,,,,,,,1802.0,1794.0,,,1806.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130003,2011-03-31,catheys_valleymariposaca,39.266999999999996,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2553,,,,,,,,,,,,1794.0,1787.0,,,1794.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130004,2011-04-30,catheys_valleymariposaca,27.4869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4917,,,,,,,,,,,,1770.0,1761.0,,,1768.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130005,2011-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4917,,,,,,,,,,,,1736.0,1726.0,,,1732.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130006,2011-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7383,,,,,,,,,,,,1713.0,1705.0,,,1710.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130007,2011-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5047,,,,,,,,,,,,1692.0,1688.0,,,1692.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130008,2011-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.972,,,,,,,,,,,,1684.0,1681.0,,,1687.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130009,2011-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7383,,,,,,,,,,,,1677.0,1673.0,,,1679.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130010,2011-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.972,,,,,,,,,,,,1666.0,1662.0,,,1669.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130011,2011-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0094,,,,,,,,,,,,1658.0,1650.0,,,1659.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130012,2011-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0094,,,,,,,,,,,,1638.0,1631.0,,,1640.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130013,2012-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5377,,,,,,,,,,,,1607.0,1599.0,,,1608.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130014,2012-02-29,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5211,,,,,,,,,,,,1575.0,1573.0,,,1577.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130015,2012-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2864,,,,,,,,,,,,1550.0,1547.0,,,1553.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130016,2012-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8169,,,,,,,,,,,,1539.0,1537.0,,,1544.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130017,2012-05-31,catheys_valleymariposaca,21.3083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8169,,,,,,,,,,,,1540.0,1536.0,,,1545.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130018,2012-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0445,,,,,,,,,,,,1551.0,1548.0,,,1555.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130019,2012-07-31,catheys_valleymariposaca,27.7008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2787,,,,,,,,,,,,1575.0,1570.0,,,1576.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130020,2012-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,1585.0,1582.0,,,1587.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130021,2012-09-30,catheys_valleymariposaca,30.8218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5129,,,,,,,,,,,,1577.0,1572.0,,,1578.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130022,2012-10-31,catheys_valleymariposaca,32.258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7736,,,,,,,,,,,,1561.0,1556.0,,,1563.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130023,2012-11-30,catheys_valleymariposaca,31.0783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2353,,,,,,,,,,,,1541.0,1536.0,,,1542.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130024,2012-12-31,catheys_valleymariposaca,13.5998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2353,,,,,,,,,,,,1526.0,1520.0,,,1528.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130025,2013-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2353,,,,,,,,,,,,1520.0,1515.0,,,1521.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130026,2013-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,1514.0,1509.0,,,1516.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130027,2013-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,1519.0,1514.0,,,1519.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130028,2013-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,1536.0,1529.0,,,1536.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130029,2013-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,1549.0,1543.0,,,1550.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130030,2013-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7647,,,,,,,,,,,,1561.0,1556.0,,,1561.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130031,2013-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5346,,,,,,,,,,,,1540.0,1534.0,,,1539.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130032,2013-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2959,,,,,,,,,,,,1521.0,1516.0,,,1520.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130033,2013-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.58,,,,,,,,,,,,1517.0,1510.0,,,1515.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130034,2013-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2941,,,,,,,,,,,,1517.0,1511.0,,,1514.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130035,2013-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5882,,,,,,,,,,,,1528.0,1519.0,,,1523.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130036,2013-12-31,catheys_valleymariposaca,27.7778,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8235,,,,,,,,,,,,1517.0,1510.0,,,1514.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130037,2014-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8235,,,,,,,,,,,,1508.0,1503.0,,,1507.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130038,2014-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0660000000000003,,,,,,,,,,,,1497.0,1490.0,,,1495.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130039,2014-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3019,,,,,,,,,,,,1484.0,1479.0,,,1481.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130040,2014-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1473.0,1468.0,,,1470.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130041,2014-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1484.0,1482.0,,,1483.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130042,2014-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0094,,,,,,,,,,,,1508.0,1505.0,,,1507.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130043,2014-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0094,,,,,,,,,,,,1560.0,1559.0,,,1561.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130044,2014-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0094,,,,,,,,,,,,1619.0,1614.0,,,1615.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130045,2014-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7736,,,,,,,,,,,,1700.0,1693.0,,,1694.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130046,2014-10-31,catheys_valleymariposaca,21.4271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1747.0,1741.0,,,1741.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130047,2014-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1793.0,1791.0,,,1791.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130048,2014-12-31,catheys_valleymariposaca,27.8552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1852.0,1852.0,,,1839.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130049,2015-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1892.0,1893.0,,,1879.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130050,2015-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4811,,,,,,,,,,,,1899.0,1903.0,,,1888.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130051,2015-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7736,,,,,,,,,,,,1881.0,1886.0,,,1881.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130052,2015-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3019,,,,,,,,,,,,1878.0,1884.0,,,1877.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130053,2015-05-31,catheys_valleymariposaca,16.3854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8302,,,,,,,,,,,,1862.0,1866.0,,,1861.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130054,2015-06-30,catheys_valleymariposaca,23.6769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5377,,,,,,,,,,,,1829.0,1832.0,,,1831.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130055,2015-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8302,,,,,,,,,,,,1786.0,1788.0,,,1789.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130056,2015-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0660000000000003,,,,,,,,,,,,1757.0,1759.0,,,1760.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130057,2015-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5377,,,,,,,,,,,,1747.0,1747.0,,,1747.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130058,2015-10-31,catheys_valleymariposaca,13.9276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1732.0,1731.0,,,1732.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130059,2015-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4811,,,,,,,,,,,,1718.0,1716.0,,,1717.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130060,2015-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1701.0,1695.0,,,1702.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130061,2016-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1692.0,1681.0,,,1691.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130062,2016-02-29,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1705.0,1689.0,,,1702.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130063,2016-03-31,catheys_valleymariposaca,13.4048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1887,,,,,,,,,,,,1731.0,1709.0,,,1719.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130064,2016-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1727.0,1709.0,,,1716.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130065,2016-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.717,,,,,,,,,,,,1718.0,1702.0,,,1705.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130066,2016-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1696.0,1681.0,,,1683.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130067,2016-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4811,,,,,,,,,,,,1679.0,1659.0,,,1662.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130068,2016-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2453,,,,,,,,,,,,1643.0,1624.0,,,1628.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130069,2016-09-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7736,,,,,,,,,,,,1619.0,1607.0,,,1609.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130070,2016-10-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0660000000000003,,,,,,,,,,,,1603.0,1594.0,,,1595.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130071,2016-11-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8302,,,,,,,,,,,,1584.0,1578.0,,,1578.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130072,2016-12-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3585,,,,,,,,,,,,1577.0,1571.0,,,1572.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130073,2017-01-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1226,,,,,,,,,,,,1582.0,1577.0,,,1580.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130074,2017-02-28,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1226,,,,,,,,,,,,1606.0,1602.0,,,1605.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130075,2017-03-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8868,,,,,,,,,,,,1635.0,1634.0,,,1634.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130076,2017-04-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3585,,,,,,,,,,,,1663.0,1660.0,,,1661.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130077,2017-05-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1226,,,,,,,,,,,,1682.0,1680.0,,,1681.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130078,2017-06-30,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1226,,,,,,,,,,,,1705.0,1703.0,,,1705.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130079,2017-07-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8868,,,,,,,,,,,,1726.0,1728.0,,,1727.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3130080,2017-08-31,catheys_valleymariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6509,,,,,,,,,,,,1744.0,1746.0,,,1745.0,catheys_valleymariposaca,Catheys Valley,Mariposa,CA
+3372780,2002-12-31,fish_campmariposaca,39.4789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372781,2012-04-30,fish_campmariposaca,67.5676,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2599,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372782,2012-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2599,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372783,2012-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8249,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372784,2012-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3898,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372785,2012-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8249,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372786,2012-09-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8249,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372787,2012-10-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8249,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372788,2012-11-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6949,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372789,2012-12-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6949,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372790,2013-01-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6949,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372791,2013-02-28,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6949,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372792,2013-03-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6949,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372793,2013-04-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1299,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372794,2013-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1299,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372795,2013-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5618,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372796,2013-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5714,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372797,2013-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5714,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372798,2013-09-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5682,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372799,2013-10-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5587,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372800,2013-11-30,fish_campmariposaca,66.6667,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1173,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372801,2013-12-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.676,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372802,2014-01-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.676,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372803,2014-02-28,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.676,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372804,2014-03-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2346,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372805,2014-04-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372806,2014-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372807,2014-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372808,2014-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372809,2014-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372810,2014-09-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372811,2014-10-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372812,2014-11-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.087,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372813,2014-12-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.087,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372814,2015-01-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372815,2015-02-28,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372816,2015-03-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372817,2015-04-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372818,2015-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372819,2015-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372820,2015-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372821,2015-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372822,2015-09-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372823,2015-10-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372824,2015-11-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372825,2015-12-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372826,2016-01-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372827,2016-02-29,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372828,2016-03-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2609,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372829,2016-04-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2609,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372830,2016-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372831,2016-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372832,2016-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372833,2016-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372834,2016-09-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372835,2016-10-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372836,2016-11-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3478,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372837,2016-12-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372838,2017-01-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372839,2017-02-28,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8043,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372840,2017-03-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7174,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372841,2017-04-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1739,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372842,2017-05-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372843,2017-06-30,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372844,2017-07-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6304,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3372845,2017-08-31,fish_campmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5435,,,,,,,,,,,,,,,,,fish_campmariposaca,Fish Camp,Mariposa,CA
+3672177,2008-04-30,hornitosmariposaca,270.2703,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672178,2011-03-31,hornitosmariposaca,526.3158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672179,2012-01-31,hornitosmariposaca,270.2703,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672180,2012-04-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5217,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672181,2012-05-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5217,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672182,2012-06-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5217,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672183,2012-07-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5217,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672184,2012-08-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3478,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672185,2012-09-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3478,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672186,2012-10-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3478,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672187,2012-11-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672188,2012-12-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672189,2013-01-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672190,2013-02-28,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672191,2013-03-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672192,2013-04-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672193,2013-05-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672194,2013-06-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672195,2013-07-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.439,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672196,2013-08-31,hornitosmariposaca,606.0606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3171,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672197,2013-09-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3171,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672198,2013-10-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672199,2013-11-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672200,2013-12-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672201,2014-01-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672202,2014-02-28,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672203,2014-03-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672204,2014-04-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672205,2014-05-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672206,2014-06-30,hornitosmariposaca,147.0588,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672207,2014-07-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672208,2014-08-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672209,2014-09-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672210,2014-10-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672211,2014-11-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672212,2014-12-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3023,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672213,2015-01-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672214,2015-02-28,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672215,2015-03-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672216,2015-04-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672217,2015-05-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672218,2015-06-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672219,2015-07-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672220,2015-08-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672221,2015-09-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672222,2015-10-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672223,2015-11-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672224,2015-12-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672225,2016-01-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672226,2016-02-29,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672227,2016-03-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9767,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672228,2016-04-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672229,2016-05-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672230,2016-06-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672231,2016-07-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672232,2016-08-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672233,2016-09-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6512,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672234,2016-10-31,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+3672235,2016-11-30,hornitosmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3256,,,,,,,,,,,,,,,,,hornitosmariposaca,Hornitos,Mariposa,CA
+4132508,2012-11-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132509,2012-12-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132510,2013-01-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132511,2013-02-28,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132512,2013-03-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132513,2013-04-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132514,2013-05-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6993,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132515,2013-06-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3889,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132516,2013-07-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3986,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132517,2013-08-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3889,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132518,2013-09-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0833,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132519,2013-10-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.069,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132520,2013-11-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3793,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132521,2013-12-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3793,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132522,2014-01-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3793,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132523,2014-02-28,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3793,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132524,2014-03-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3793,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132525,2014-04-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0269999999999997,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132526,2014-05-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7027,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132527,2014-06-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0269999999999997,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132528,2014-07-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0269999999999997,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132529,2014-08-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0269999999999997,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132530,2014-09-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132531,2014-10-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132532,2014-11-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132533,2014-12-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132534,2015-01-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132535,2015-02-28,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132536,2015-03-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0269999999999997,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132537,2015-04-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132538,2015-05-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132539,2015-06-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132540,2015-07-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132541,2015-08-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132542,2015-09-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132543,2015-10-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132544,2015-11-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132545,2015-12-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132546,2016-01-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132547,2016-02-29,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3514,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132548,2016-03-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132549,2016-04-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132550,2016-05-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132551,2016-09-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132552,2016-10-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132553,2016-11-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132554,2016-12-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132555,2017-01-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132556,2017-02-28,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132557,2017-03-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132558,2017-04-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132559,2017-05-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132560,2017-06-30,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132561,2017-07-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA
+4132562,2017-08-31,el_portalmariposaca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6757,,,,,,,,,,,,,,,,,el_portalmariposaca,El Portal,Mariposa,CA

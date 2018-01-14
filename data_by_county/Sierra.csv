@@ -1,0 +1,1023 @@
+,Date,RegionName,HomesSoldAsForeclosuresRatio_AllHomes,InventorySeasonallyAdjusted_AllHomes,InventoryRaw_AllHomes,MedianListingPricePerSqft_1Bedroom,MedianListingPricePerSqft_2Bedroom,MedianListingPricePerSqft_3Bedroom,MedianListingPricePerSqft_4Bedroom,MedianListingPricePerSqft_5BedroomOrMore,MedianListingPricePerSqft_AllHomes,MedianListingPricePerSqft_CondoCoop,MedianListingPricePerSqft_DuplexTriplex,MedianListingPricePerSqft_SingleFamilyResidence,MedianListingPrice_1Bedroom,MedianListingPrice_2Bedroom,MedianListingPrice_3Bedroom,MedianListingPrice_4Bedroom,MedianListingPrice_5BedroomOrMore,MedianListingPrice_AllHomes,MedianListingPrice_CondoCoop,MedianListingPrice_DuplexTriplex,MedianListingPrice_SingleFamilyResidence,MedianPctOfPriceReduction_AllHomes,MedianPctOfPriceReduction_CondoCoop,MedianPctOfPriceReduction_SingleFamilyResidence,MedianPriceCutDollar_AllHomes,MedianPriceCutDollar_CondoCoop,MedianPriceCutDollar_SingleFamilyResidence,MedianRentalPricePerSqft_1Bedroom,MedianRentalPricePerSqft_2Bedroom,MedianRentalPricePerSqft_3Bedroom,MedianRentalPricePerSqft_4Bedroom,MedianRentalPricePerSqft_5BedroomOrMore,MedianRentalPricePerSqft_AllHomes,MedianRentalPricePerSqft_CondoCoop,MedianRentalPricePerSqft_DuplexTriplex,MedianRentalPricePerSqft_MultiFamilyResidence5PlusUnits,MedianRentalPricePerSqft_SingleFamilyResidence,MedianRentalPricePerSqft_Studio,MedianRentalPrice_1Bedroom,MedianRentalPrice_2Bedroom,MedianRentalPrice_3Bedroom,MedianRentalPrice_4Bedroom,MedianRentalPrice_5BedroomOrMore,MedianRentalPrice_AllHomes,MedianRentalPrice_CondoCoop,MedianRentalPrice_DuplexTriplex,MedianRentalPrice_MultiFamilyResidence5PlusUnits,MedianRentalPrice_SingleFamilyResidence,MedianRentalPrice_Studio,MedianSoldPricePerSqft_AllHomes,MedianSoldPricePerSqft_CondoCoop,MedianSoldPricePerSqft_SingleFamilyResidence,MedianSoldPrice_AllHomes,ZHVIPerSqft_AllHomes,PctOfHomesDecreasingInValues_AllHomes,PctOfHomesIncreasingInValues_AllHomes,PctOfHomesSellingForGain_AllHomes,PctOfHomesSellingForLoss_AllHomes,PctOfListingsWithPriceReductionsSeasAdj_AllHomes,PctOfListingsWithPriceReductionsSeasAdj_CondoCoop,PctOfListingsWithPriceReductionsSeasAdj_SingleFamilyResidence,PctOfListingsWithPriceReductions_AllHomes,PctOfListingsWithPriceReductions_CondoCoop,PctOfListingsWithPriceReductions_SingleFamilyResidence,PctTransactionsThatArePreviouslyForeclosuredHomes_AllHomes,PriceToRentRatio_AllHomes,Turnover_AllHomes,ZHVI_1bedroom,ZHVI_2bedroom,ZHVI_3bedroom,ZHVI_4bedroom,ZHVI_5BedroomOrMore,ZHVI_AllHomes,ZHVI_BottomTier,ZHVI_CondoCoop,ZHVI_MiddleTier,ZHVI_SingleFamilyResidence,ZHVI_TopTier,ZRI_AllHomes,ZRI_AllHomesPlusMultifamily,ZriPerSqft_AllHomes,Zri_MultiFamilyResidenceRental,Zri_SingleFamilyResidenceRental,Unique_City_ID,City,County,State
+2946603,1998-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946604,1998-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0984,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946605,1998-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8642,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946606,1998-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2155,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946607,1998-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9813,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946608,1998-06-30,loyaltonsierraca,40.7001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7471,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946609,1998-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7471,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946610,1998-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3958,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946611,1998-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3958,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946612,1998-10-31,loyaltonsierraca,17.9856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946613,1998-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6932,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946614,1998-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946615,1999-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946616,1999-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6932,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946617,1999-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0445,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946618,1999-04-30,loyaltonsierraca,14.1064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2787,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946619,1999-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946620,1999-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8642,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946621,1999-07-31,loyaltonsierraca,10.6383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946622,1999-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2155,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946623,1999-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2155,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946624,1999-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2155,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946625,1999-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946626,1999-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946627,2000-01-31,loyaltonsierraca,11.9904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6838,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946628,2000-02-29,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1522,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946629,2000-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946630,2000-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946631,2000-05-31,loyaltonsierraca,6.7843,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0889999999999995,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946632,2000-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.4403,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946633,2000-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9719,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946634,2000-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.8548,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946635,2000-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9719,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946636,2000-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9719,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946637,2000-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9719,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946638,2000-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.8548,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946639,2001-01-31,loyaltonsierraca,8.17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0889999999999995,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946640,2001-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946641,2001-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946642,2001-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946643,2001-05-31,loyaltonsierraca,7.1022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1522,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946644,2001-06-30,loyaltonsierraca,12.1247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2693,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946645,2001-07-31,loyaltonsierraca,7.1378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7377,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946646,2001-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2061,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946647,2001-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7916,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946648,2001-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9087,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946649,2001-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946650,2001-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.26,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946651,2002-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946652,2002-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946653,2002-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.4941,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946654,2002-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9087,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946655,2002-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.4403,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946656,2002-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3232,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946657,2002-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.4403,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946658,2002-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3232,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946659,2002-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946660,2002-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1522,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946661,2002-11-30,loyaltonsierraca,8.9445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946662,2002-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1522,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946663,2003-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946664,2003-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3864,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946665,2003-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946666,2003-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946667,2003-05-31,loyaltonsierraca,11.9904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5035,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946668,2003-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2693,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946669,2003-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6838,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946670,2003-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3326,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946671,2003-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2155,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946672,2003-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946673,2003-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946674,2003-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946675,2004-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946676,2004-02-29,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6838,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946677,2004-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3864,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946678,2004-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946679,2004-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3864,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946680,2004-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.8548,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946681,2004-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5574,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946682,2004-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.9087,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946683,2004-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.7283,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946684,2004-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6112,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946685,2004-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.7283,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946686,2004-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.4941,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946687,2005-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.7283,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946688,2005-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.9625,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946689,2005-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946690,2005-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946691,2005-05-31,loyaltonsierraca,14.245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.26,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946692,2005-06-30,loyaltonsierraca,9.9715,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.377000000000001,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946693,2005-07-31,loyaltonsierraca,13.218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7916,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946694,2005-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.6745,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946695,2005-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3232,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946696,2005-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7377,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946697,2005-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946698,2005-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.8548,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946699,2006-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5035,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946700,2006-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3864,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946701,2006-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9719,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946702,2006-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6206,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946703,2006-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5035,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946704,2006-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946705,2006-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2693,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946706,2006-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1522,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946707,2006-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.918,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946708,2006-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0351,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946709,2006-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6838,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946710,2006-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946711,2007-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946712,2007-02-28,loyaltonsierraca,13.7608,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4496,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946713,2007-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946714,2007-04-30,loyaltonsierraca,20.4139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7471,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946715,2007-05-31,loyaltonsierraca,30.3004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5129,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946716,2007-06-30,loyaltonsierraca,35.5094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3958,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946717,2007-07-31,loyaltonsierraca,17.7342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946718,2007-08-31,loyaltonsierraca,21.7477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6932,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946719,2007-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5761,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946720,2007-10-31,loyaltonsierraca,22.6647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5761,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946721,2007-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3419,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946722,2007-12-31,loyaltonsierraca,23.0496,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3419,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946723,2008-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.459,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946724,2008-02-29,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2248,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946725,2008-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2248,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946726,2008-04-30,loyaltonsierraca,11.9904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5761,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946727,2008-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5761,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946728,2008-06-30,loyaltonsierraca,35.512,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946729,2008-07-31,loyaltonsierraca,54.2553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0445,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946730,2008-08-31,loyaltonsierraca,49.6454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1616,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946731,2008-09-30,loyaltonsierraca,36.2715,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5129,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946732,2008-10-31,loyaltonsierraca,15.3191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946733,2008-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7471,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946734,2008-12-31,loyaltonsierraca,11.9904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9813,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946735,2009-01-31,loyaltonsierraca,102.7329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8642,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946736,2009-02-28,loyaltonsierraca,69.6348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946737,2009-03-31,loyaltonsierraca,43.2272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946738,2009-04-30,loyaltonsierraca,31.7243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7471,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946739,2009-05-31,loyaltonsierraca,19.3712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5129,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946740,2009-06-30,loyaltonsierraca,26.4633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3958,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946741,2009-07-31,loyaltonsierraca,42.0674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5629,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946742,2009-08-31,loyaltonsierraca,37.6223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8005,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946743,2009-09-30,loyaltonsierraca,16.7966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5129,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946744,2009-10-31,loyaltonsierraca,21.3276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3449,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946745,2009-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2295,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946746,2009-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9988,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946747,2010-01-31,loyaltonsierraca,227.2728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1142,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946748,2010-02-28,loyaltonsierraca,171.2268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2258,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946749,2010-03-31,loyaltonsierraca,91.0862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.341,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946750,2010-04-30,loyaltonsierraca,31.4577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2258,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946751,2010-05-31,loyaltonsierraca,43.8712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6952,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946752,2010-06-30,loyaltonsierraca,36.2768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5797,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946753,2010-07-31,loyaltonsierraca,51.9753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.4602,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946754,2010-08-31,loyaltonsierraca,46.1417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3449,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946755,2010-09-30,loyaltonsierraca,37.4588,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6866,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946756,2010-10-31,loyaltonsierraca,51.3768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1427,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946757,2010-11-30,loyaltonsierraca,29.5026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0323,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946758,2010-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0603,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946759,2011-01-31,loyaltonsierraca,14.9253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0603,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946760,2011-02-28,loyaltonsierraca,63.4513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1812,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946761,2011-03-31,loyaltonsierraca,65.5609,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1812,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946762,2011-04-30,loyaltonsierraca,44.4523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4135,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946763,2011-05-31,loyaltonsierraca,15.4295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8328,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946764,2011-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8328,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946765,2011-07-31,loyaltonsierraca,29.9401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946766,2011-08-31,loyaltonsierraca,38.6886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1812,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946767,2011-09-30,loyaltonsierraca,21.3934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946768,2011-10-31,loyaltonsierraca,27.0583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946769,2011-11-30,loyaltonsierraca,26.3787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4084,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946770,2011-12-31,loyaltonsierraca,48.7148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5244,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946771,2012-01-31,loyaltonsierraca,45.766000000000005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7564,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946772,2012-02-29,loyaltonsierraca,33.173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1103,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946773,2012-03-31,loyaltonsierraca,39.5402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.878,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946774,2012-04-30,loyaltonsierraca,21.885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.6458,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946775,2012-05-31,loyaltonsierraca,52.6216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9942,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946776,2012-06-30,loyaltonsierraca,43.119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.878,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946777,2012-07-31,loyaltonsierraca,21.7263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946778,2012-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4135,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946779,2012-09-30,loyaltonsierraca,35.8852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4135,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946780,2012-10-31,loyaltonsierraca,42.7875,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946781,2012-11-30,loyaltonsierraca,22.8939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1715,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946782,2012-12-31,loyaltonsierraca,22.8688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1715,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946783,2013-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9397,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946784,2013-02-28,loyaltonsierraca,22.8873,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.708,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946785,2013-03-31,loyaltonsierraca,47.5748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9397,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946786,2013-04-30,loyaltonsierraca,41.7337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.708,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946787,2013-05-31,loyaltonsierraca,26.049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8239,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946788,2013-06-30,loyaltonsierraca,20.3519,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3604,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946789,2013-07-31,loyaltonsierraca,10.4255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6088,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946790,2013-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2596,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946791,2013-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1432,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946792,2013-10-31,loyaltonsierraca,41.6666,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.708,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946793,2013-11-30,loyaltonsierraca,43.8726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2874,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946794,2013-12-31,loyaltonsierraca,22.7293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2874,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946795,2014-01-31,loyaltonsierraca,40.383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2923,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946796,2014-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1909,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946797,2014-03-31,loyaltonsierraca,43.6469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1909,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946798,2014-04-30,loyaltonsierraca,35.5831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946799,2014-05-31,loyaltonsierraca,17.8619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2973,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946800,2014-06-30,loyaltonsierraca,31.5021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.878,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946801,2014-07-31,loyaltonsierraca,30.113000000000003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5349,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946802,2014-08-31,loyaltonsierraca,16.114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946803,2014-09-30,loyaltonsierraca,21.0286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9535,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946804,2014-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7209,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946805,2014-11-30,loyaltonsierraca,23.328000000000003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3721,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946806,2014-12-31,loyaltonsierraca,19.6906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7209,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946807,2015-01-31,loyaltonsierraca,10.3476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7209,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946808,2015-02-28,loyaltonsierraca,13.9301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0698,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946809,2015-03-31,loyaltonsierraca,17.3158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3023,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946810,2015-04-30,loyaltonsierraca,9.8752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0698,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946811,2015-05-31,loyaltonsierraca,11.7541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946812,2015-06-30,loyaltonsierraca,17.2462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8372,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946813,2015-07-31,loyaltonsierraca,26.8018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946814,2015-08-31,loyaltonsierraca,14.7883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9535,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946815,2015-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8372,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946816,2015-10-31,loyaltonsierraca,18.0832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8372,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946817,2015-11-30,loyaltonsierraca,33.5351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0698,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946818,2015-12-31,loyaltonsierraca,20.0388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8372,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946819,2016-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0698,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946820,2016-02-29,loyaltonsierraca,9.0416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0698,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946821,2016-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946822,2016-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7674,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946823,2016-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946824,2016-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.7674,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946825,2016-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946826,2016-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946827,2016-09-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946828,2016-10-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.186,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946829,2016-11-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6047,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946830,2016-12-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3721,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946831,2017-01-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1395,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946832,2017-02-28,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1395,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946833,2017-03-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1395,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946834,2017-04-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5581,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946835,2017-05-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2093,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946836,2017-06-30,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2093,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946837,2017-07-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8605,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+2946838,2017-08-31,loyaltonsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7442,,,,,,,,,,,,,,,,,loyaltonsierraca,Loyalton,Sierra,CA
+3201289,1999-01-31,downievillesierraca,138.8889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201290,2004-02-29,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201291,2004-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201292,2004-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201293,2004-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2288,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201294,2004-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5556,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201295,2004-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5752,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201296,2004-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2288,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201297,2004-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2288,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201298,2004-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5752,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201299,2004-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201300,2004-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201301,2005-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201302,2005-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5948,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201303,2005-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201304,2006-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201305,2006-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201306,2006-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201307,2006-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2484,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201308,2006-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201309,2006-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201310,2006-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9216,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201311,2006-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5752,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201312,2006-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5752,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201313,2007-03-31,downievillesierraca,333.3333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201314,2007-09-30,downievillesierraca,217.8649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201315,2007-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5948,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201316,2008-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5948,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201317,2008-02-29,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5948,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201318,2009-09-30,downievillesierraca,277.7778,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201319,2010-06-30,downievillesierraca,213.6752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201320,2011-01-31,downievillesierraca,333.3333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201321,2011-12-31,downievillesierraca,367.6471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201322,2012-04-30,downievillesierraca,349.6504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201323,2012-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201324,2012-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201325,2012-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201326,2012-08-31,downievillesierraca,312.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5735,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201327,2012-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2059,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201328,2012-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2059,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201329,2012-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201330,2012-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201331,2013-01-31,downievillesierraca,144.9275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2059,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201332,2013-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201333,2013-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201334,2013-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1029,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201335,2013-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1029,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201336,2013-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1029,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201337,2013-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1152,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201338,2013-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4869999999999999,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201339,2013-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8587,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201340,2013-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8382,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201341,2013-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5735,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201342,2013-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5735,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201343,2014-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2059,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201344,2014-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1898,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201345,2014-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1898,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201346,2014-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1818,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201347,2014-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2727,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201348,2014-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201349,2014-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201350,2014-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2727,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201351,2014-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9091,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201352,2014-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201353,2014-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201354,2014-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201355,2015-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201356,2015-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201357,2015-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201358,2015-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201359,2015-05-31,downievillesierraca,588.2353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201360,2015-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201361,2015-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201362,2015-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201363,2015-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4545,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201364,2015-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201365,2015-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201366,2015-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201367,2016-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3636,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201368,2016-02-29,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201369,2016-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6364,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201370,2016-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201371,2016-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201372,2016-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201373,2016-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201374,2016-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.9091,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201375,2016-09-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8182,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201376,2016-10-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8182,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201377,2016-11-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8182,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201378,2016-12-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4545,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201379,2017-01-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201380,2017-02-28,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201381,2017-03-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201382,2017-04-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201383,2017-05-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201384,2017-06-30,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0909,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201385,2017-07-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.7273,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3201386,2017-08-31,downievillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.7273,,,,,,,,,,,,,,,,,downievillesierraca,Downieville,Sierra,CA
+3213589,1999-03-31,calpinesierraca,213.6752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213590,1999-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213591,1999-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213592,1999-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213593,2000-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213594,2000-02-29,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213595,2000-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3927,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213596,2000-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.2192,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213597,2000-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.2192,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213598,2000-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.7626,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213599,2000-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3059,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213600,2000-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3059,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213601,2000-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.3059,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213602,2000-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213603,2000-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213604,2000-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213605,2002-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213606,2002-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213607,2002-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213608,2003-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213609,2003-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213610,2003-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213611,2003-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213612,2003-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9361,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213613,2003-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9361,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213614,2004-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9361,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213615,2004-02-29,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213616,2004-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213617,2004-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213618,2004-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3927,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213619,2004-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.3927,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213620,2004-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.8493,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213621,2004-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213622,2005-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9361,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213623,2005-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213624,2005-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213625,2005-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213626,2005-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.9361,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213627,2006-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4795,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213628,2006-02-28,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213629,2006-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0228,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213630,2009-01-31,calpinesierraca,208.3333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213631,2009-09-30,calpinesierraca,160.2564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213632,2009-12-31,calpinesierraca,79.3022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213633,2010-10-31,calpinesierraca,641.0256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213634,2011-04-30,calpinesierraca,160.2564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213635,2011-08-31,calpinesierraca,317.965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213636,2011-09-30,calpinesierraca,189.1892,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213637,2012-02-29,calpinesierraca,96.1539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213638,2012-03-31,calpinesierraca,110.0427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213639,2012-04-30,calpinesierraca,125.4273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.878,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213640,2012-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.878,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213641,2012-06-30,calpinesierraca,124.5778,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6911,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213642,2012-07-31,calpinesierraca,119.4194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6911,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213643,2012-08-31,calpinesierraca,59.4692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.2846,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213644,2012-09-30,calpinesierraca,76.4706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6911,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213645,2012-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0976,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213646,2012-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5041,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213647,2012-12-31,calpinesierraca,94.3396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0976,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213648,2013-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6911,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213649,2013-02-28,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7143,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213650,2013-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5306,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213651,2013-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.1224,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213652,2013-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.1224,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213653,2013-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.7143,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213654,2013-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213655,2013-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213656,2013-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0816,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213657,2013-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213658,2013-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213659,2013-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213660,2014-01-31,calpinesierraca,204.0816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3061,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213661,2014-02-28,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.9383,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213662,2014-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7037,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213663,2014-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213664,2014-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213665,2014-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213666,2014-07-31,calpinesierraca,90.4978,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0816,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213667,2014-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213668,2014-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213669,2014-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213670,2014-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213671,2014-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213672,2015-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213673,2015-02-28,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213674,2015-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8571,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213675,2015-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213676,2015-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213677,2015-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213678,2015-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213679,2015-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213680,2015-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8571,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213681,2015-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8571,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213682,2015-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213683,2015-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213684,2016-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4898,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213685,2016-02-29,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0816,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213686,2016-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0816,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213687,2016-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0816,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213688,2016-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213689,2016-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213690,2016-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213691,2016-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.6735,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213692,2016-09-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2653,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213693,2016-10-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8571,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213694,2016-11-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8571,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213695,2016-12-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.449,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213696,2017-01-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6327,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213697,2017-02-28,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6327,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213698,2017-03-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0408,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213699,2017-04-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6327,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213700,2017-05-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0408,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213701,2017-06-30,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.449,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213702,2017-07-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6327,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3213703,2017-08-31,calpinesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6327,,,,,,,,,,,,,,,,,calpinesierraca,Calpine,Sierra,CA
+3251108,1999-10-31,alleghanysierraca,303.0303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251109,2006-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251110,2006-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251111,2006-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251112,2006-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251113,2006-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251114,2006-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251115,2006-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251116,2006-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251117,2006-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251118,2006-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251119,2006-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251120,2007-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251121,2007-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251122,2007-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251123,2007-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251124,2007-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251125,2007-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251126,2007-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251127,2007-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251128,2007-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251129,2007-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251130,2007-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251131,2007-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251132,2008-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251133,2008-02-29,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251134,2008-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251135,2008-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251136,2008-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251137,2008-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251138,2008-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251139,2008-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251140,2008-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251141,2008-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251142,2008-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251143,2008-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251144,2009-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251145,2009-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251146,2009-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251147,2009-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251148,2009-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251149,2009-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251150,2009-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251151,2009-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251152,2009-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251153,2009-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251154,2009-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251155,2009-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251156,2010-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251157,2010-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251158,2010-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251159,2010-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251160,2010-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251161,2010-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251162,2010-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251163,2010-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251164,2010-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251165,2010-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251166,2010-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251167,2010-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251168,2011-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251169,2011-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251170,2011-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251171,2011-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251172,2011-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251173,2011-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251174,2011-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251175,2011-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251176,2011-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251177,2011-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251178,2011-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251179,2011-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251180,2012-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251181,2012-02-29,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251182,2012-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251183,2012-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251184,2012-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251185,2012-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251186,2012-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251187,2012-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251188,2012-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251189,2012-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251190,2012-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251191,2012-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251192,2013-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251193,2013-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251194,2013-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251195,2013-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251196,2013-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251197,2013-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251198,2013-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0417,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251199,2013-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0417,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251200,2013-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0417,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251201,2013-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251202,2013-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251203,2013-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251204,2014-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251205,2014-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251206,2014-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251207,2014-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251208,2014-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251209,2014-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251210,2014-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251211,2014-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251212,2014-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251213,2014-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251214,2014-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251215,2014-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251216,2015-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251217,2015-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251218,2015-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251219,2015-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251220,2015-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251221,2015-06-30,alleghanysierraca,434.7826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251222,2015-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251223,2015-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251224,2015-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251225,2015-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251226,2015-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251227,2015-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251228,2016-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251229,2016-02-29,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251230,2016-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251231,2016-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251232,2016-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251233,2016-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251234,2016-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251235,2016-08-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0928,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251236,2016-09-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251237,2016-10-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251238,2016-11-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251239,2016-12-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251240,2017-01-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251241,2017-02-28,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251242,2017-03-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251243,2017-04-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251244,2017-05-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251245,2017-06-30,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3251246,2017-07-31,alleghanysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0309,,,,,,,,,,,,,,,,,alleghanysierraca,Alleghany,Sierra,CA
+3271234,2000-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271235,2000-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271236,2000-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0992,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271237,2000-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271238,2000-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271239,2000-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271240,2001-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271241,2001-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271242,2001-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271243,2001-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271244,2001-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271245,2001-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271246,2001-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271247,2001-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271248,2002-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271249,2002-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271250,2002-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271251,2002-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271252,2002-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271253,2002-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271254,2003-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271255,2003-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271256,2003-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271257,2003-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271258,2003-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0992,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271259,2003-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271260,2003-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271261,2003-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271262,2003-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271263,2003-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271264,2003-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271265,2003-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271266,2004-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271267,2004-02-29,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271268,2004-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271269,2004-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271270,2004-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271271,2004-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271272,2004-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271273,2004-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271274,2004-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271275,2004-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5124,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271276,2004-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271277,2004-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0992,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271278,2005-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271279,2005-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0992,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271280,2005-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0992,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271281,2005-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271282,2005-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8926,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271283,2005-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271284,2005-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271285,2005-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3058,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271286,2005-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.719,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271287,2005-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271288,2005-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271289,2005-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271290,2006-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3388,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271291,2006-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271292,2006-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3388,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271293,2006-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271294,2006-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271295,2006-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9256,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271296,2006-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1322,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271297,2006-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271298,2006-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271299,2006-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271300,2006-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271301,2006-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271302,2007-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271303,2007-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271304,2007-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271305,2007-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271306,2007-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271307,2007-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271308,2007-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271309,2007-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271310,2007-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271311,2007-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6860000000000004,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271312,2007-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271313,2007-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271314,2008-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271315,2008-02-29,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271316,2008-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271317,2008-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271318,2008-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271319,2008-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271320,2008-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271321,2008-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271322,2008-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271323,2008-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271324,2008-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271325,2008-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2727,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271326,2009-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271327,2009-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271328,2009-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271329,2009-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271330,2009-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4793,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271331,2009-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271332,2009-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271333,2009-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271334,2009-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271335,2009-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271336,2009-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271337,2009-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271338,2010-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271339,2010-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271340,2010-03-31,sierra_citysierraca,322.5806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271341,2010-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271342,2010-05-31,sierra_citysierraca,140.9797,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271343,2010-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271344,2010-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271345,2010-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271346,2010-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271347,2010-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271348,2010-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271349,2010-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271350,2011-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271351,2011-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271352,2011-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271353,2011-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271354,2011-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271355,2011-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271356,2011-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271357,2011-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271358,2011-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271359,2011-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271360,2011-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271361,2011-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271362,2012-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271363,2012-02-29,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271364,2012-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271365,2012-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.8264,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271366,2012-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.2397,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271367,2012-06-30,sierra_citysierraca,86.5052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4463,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271368,2012-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4463,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271369,2012-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4463,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271370,2012-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4463,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271371,2012-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0661,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271372,2012-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271373,2012-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271374,2013-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271375,2013-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0619,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271376,2013-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0576,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271377,2013-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0576,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271378,2013-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271379,2013-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0576,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271380,2013-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4896,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271381,2013-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8986,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271382,2013-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.1056,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271383,2013-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271384,2013-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271385,2013-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271386,2014-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6694,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271387,2014-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0738,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271388,2014-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0738,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271389,2014-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5052,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271390,2014-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8866,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271391,2014-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8866,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271392,2014-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6749,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271393,2014-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8807,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271394,2014-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271395,2014-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271396,2014-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271397,2014-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8519,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271398,2015-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8519,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271399,2015-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4403,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271400,2015-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271401,2015-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271402,2015-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271403,2015-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271404,2015-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271405,2015-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271406,2015-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271407,2015-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6749,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271408,2015-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6749,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271409,2015-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6749,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271410,2016-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271411,2016-02-29,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271412,2016-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.4691,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271413,2016-04-30,sierra_citysierraca,217.3913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271414,2016-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271415,2016-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2634,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271416,2016-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4403,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271417,2016-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271418,2016-09-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4403,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271419,2016-10-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.2346,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271420,2016-11-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4403,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271421,2016-12-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4403,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271422,2017-01-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271423,2017-02-28,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271424,2017-03-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271425,2017-04-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271426,2017-05-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8519,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271427,2017-06-30,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8519,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271428,2017-07-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6461,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3271429,2017-08-31,sierra_citysierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0288,,,,,,,,,,,,,,,,,sierra_citysierraca,Sierra City,Sierra,CA
+3378645,2003-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.3596,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378646,2003-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.4831,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378647,2003-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.3596,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378648,2003-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.6067,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378649,2003-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.3596,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378650,2003-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.3596,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378651,2006-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378652,2006-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378653,2006-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378654,2006-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378655,2006-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378656,2006-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378657,2006-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378658,2006-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378659,2006-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378660,2006-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378661,2006-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378662,2007-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378663,2007-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378664,2007-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378665,2007-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378666,2007-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378667,2007-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378668,2007-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378669,2007-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378670,2007-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378671,2007-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378672,2007-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378673,2007-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378674,2008-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378675,2008-02-29,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378676,2008-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378677,2008-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378678,2008-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378679,2008-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378680,2008-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378681,2008-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378682,2008-09-30,verdisierraca,303.0303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378683,2008-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378684,2008-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378685,2008-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378686,2009-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378687,2009-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378688,2009-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378689,2009-04-30,verdisierraca,303.0303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378690,2009-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378691,2009-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378692,2009-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378693,2009-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378694,2009-09-30,verdisierraca,526.3158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378695,2009-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378696,2009-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378697,2009-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378698,2010-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378699,2010-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378700,2010-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378701,2010-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378702,2010-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378703,2010-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378704,2010-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378705,2010-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378706,2010-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378707,2010-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378708,2010-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378709,2010-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378710,2011-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378711,2011-02-28,verdisierraca,303.0303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378712,2011-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378713,2011-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378714,2011-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378715,2011-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378716,2011-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378717,2011-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378718,2011-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378719,2011-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378720,2011-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378721,2011-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378722,2012-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378723,2012-02-29,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378724,2012-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378725,2012-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378726,2012-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378727,2012-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378728,2012-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378729,2012-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378730,2012-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378731,2012-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378732,2012-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378733,2012-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378734,2013-01-31,verdisierraca,526.3158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378735,2013-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378736,2013-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378737,2013-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378738,2013-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378739,2013-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378740,2013-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5556,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378741,2013-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5556,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378742,2013-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.5556,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378743,2013-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378744,2013-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378745,2013-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378746,2014-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378747,2014-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378748,2014-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378749,2014-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378750,2014-05-31,verdisierraca,127.8772,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378751,2014-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378752,2014-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378753,2014-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378754,2014-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378755,2014-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378756,2014-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378757,2014-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378758,2015-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378759,2015-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378760,2015-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378761,2015-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378762,2015-05-31,verdisierraca,232.5581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378763,2015-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.4945,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378764,2015-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378765,2015-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378766,2015-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378767,2015-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.7912,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378768,2015-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378769,2015-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378770,2016-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.5934,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378771,2016-02-29,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378772,2016-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378773,2016-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.6923,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378774,2016-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378775,2016-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3956,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378776,2016-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378777,2016-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378778,2016-09-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.2967,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378779,2016-10-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378780,2016-11-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378781,2016-12-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378782,2017-01-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378783,2017-02-28,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378784,2017-03-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378785,2017-04-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378786,2017-05-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378787,2017-06-30,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378788,2017-07-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3378789,2017-08-31,verdisierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0989,,,,,,,,,,,,,,,,,verdisierraca,Verdi,Sierra,CA
+3435691,2004-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7901,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435692,2004-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.4074,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435693,2005-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.4074,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435694,2008-12-31,sierravillesierraca,833.3333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435695,2009-11-30,sierravillesierraca,714.2857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435696,2010-07-31,sierravillesierraca,250.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435697,2011-09-30,sierravillesierraca,248.1389,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435698,2011-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2147,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435699,2012-03-31,sierravillesierraca,909.0909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435700,2012-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9773,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435701,2012-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9773,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435702,2012-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1136,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435703,2012-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5455,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435704,2012-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1136,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435705,2012-09-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.1136,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435706,2012-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9773,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435707,2012-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8889,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435708,2012-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8889,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435709,2013-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4444,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435710,2013-02-28,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435711,2013-03-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435712,2013-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435713,2013-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435714,2013-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435715,2013-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5714,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435716,2013-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.5714,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435717,2013-09-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.381,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435718,2013-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435719,2013-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435720,2013-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435721,2014-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2099,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435722,2014-02-28,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435723,2014-03-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1978,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435724,2014-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6575,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435725,2014-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6575,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435726,2014-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6575,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435727,2014-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2099,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435728,2014-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435729,2014-09-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435730,2014-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435731,2014-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435732,2014-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435733,2015-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435734,2015-02-28,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435735,2015-03-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435736,2015-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435737,2015-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435738,2015-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435739,2015-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4199,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435740,2015-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435741,2015-09-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435742,2015-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435743,2015-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435744,2015-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435745,2016-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435746,2016-02-29,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435747,2016-03-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435748,2016-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435749,2016-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435750,2016-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435751,2016-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435752,2016-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435753,2016-09-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435754,2016-10-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435755,2016-11-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.8674,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435756,2016-12-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435757,2017-01-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435758,2017-02-28,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435759,2017-03-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.3149,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435760,2017-04-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.7624,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435761,2017-05-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2099,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435762,2017-06-30,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6575,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435763,2017-07-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6575,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+3435764,2017-08-31,sierravillesierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.105,,,,,,,,,,,,,,,,,sierravillesierraca,Sierraville,Sierra,CA
+4001744,2012-04-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001745,2012-05-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001746,2012-06-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001747,2012-07-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001748,2012-08-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001749,2012-09-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001750,2012-10-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.1429,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001751,2014-08-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001752,2014-09-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001753,2014-10-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001754,2014-11-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001755,2014-12-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001756,2015-01-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001757,2015-02-28,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001758,2015-03-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001759,2015-04-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001760,2015-05-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001761,2015-06-30,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
+4001762,2015-07-31,goodyears_barsierraca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0909,,,,,,,,,,,,,,,,,goodyears_barsierraca,Goodyears Bar,Sierra,CA
