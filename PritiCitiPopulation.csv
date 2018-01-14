@@ -1,0 +1,495 @@
+County,City,Population
+Alameda,Alameda,73812
+Alameda,Albany,18539
+Alameda,Berkeley,112580
+Alameda,Dublin,46036
+Alameda,Emeryville,10080
+Alameda,Fremont,214089
+Alameda,Hayward,144186
+Alameda,Livermore,80968
+Alameda,Newark,42573
+Alameda,Oakland,390724
+Alameda,Piedmont,10667
+Alameda,Pleasanton,70285
+Alameda,San Leandro,84950
+Alameda,Union City,69516
+Alpine,Alpine,1175
+Amador,Amador City,185
+Amador,Ione,7918
+Amador,Jackson,4651
+Amador,Plymouth,1005
+Amador,Sutter Creek,2501
+Butte,Biggs,1707
+Butte,Chico,86187
+Butte,Gridley,6584
+Butte,Oroville,15546
+Butte,Paradise,26218
+Calaveras,Angels,3836
+Colusa,Colusa,5971
+Colusa,Williams,5123
+Contra Costa,Antioch,102372
+Contra Costa,Brentwood,51481
+Contra Costa,Clayton,10897
+Contra Costa,Concord,122067
+Contra Costa,Danville,42039
+Contra Costa,El Cerrito,23549
+Contra Costa,Hercules,24060
+Contra Costa,Lafayette,23893
+Contra Costa,Martinez,35824
+Contra Costa,Moraga,16016
+Contra Costa,Oakley,35432
+Contra Costa,Orinda,17643
+Contra Costa,Pinole,18390
+Contra Costa,Pittsburg,63264
+Contra Costa,Pleasant Hill,33152
+Contra Costa,Richmond,103701
+Contra Costa,San Pablo,29139
+Contra Costa,San Ramon,72148
+Contra Costa,Walnut Creek,64173
+Del Norte,Crescent City,7643
+El Dorado,Placerville,10389
+El Dorado,South Lake Tahoe,21403
+Fresno,Clovis,95631
+Fresno,Coalinga,13380
+Fresno,Firebaugh,7549
+Fresno,Fowler,5570
+Fresno,Fresno,494665
+Fresno,Huron,6754
+Fresno,Kerman,13544
+Fresno,Kingsburg,11382
+Fresno,Mendota,11014
+Fresno,Orange Cove,9078
+Fresno,Parlier,14494
+Fresno,Reedley,24194
+Fresno,San Joaquin,4001
+Fresno,Sanger,24270
+Fresno,Selma,23219
+Glenn,Orland,7291
+Glenn,Willows,6166
+Humboldt,Arcata,17231
+Humboldt,Blue Lake,1253
+Humboldt,Eureka,27191
+Humboldt,Ferndale,1371
+Humboldt,Fortuna,11926
+Humboldt,Rio Dell,3368
+Humboldt,Trinidad,367
+Imperial,Brawley,24953
+Imperial,Calexico,38572
+Imperial,Calipatria,7705
+Imperial,El Centro,42598
+Imperial,Holtville,5939
+Imperial,Imperial,14758
+Imperial,Westmorland,2225
+Inyo,Bishop,3879
+Kern,Arvin,19304
+Kern,Bakersfield,347483
+Kern,California City,14120
+Kern,Delano,53041
+Kern,Maricopa,1154
+Kern,McFarland,12707
+Kern,McKittrick,
+Kern,Ridgecrest,27616
+Kern,Shafter,16988
+Kern,Taft,9327
+Kern,Tehachapi,14414
+Kern,Wasco,25545
+Kings,Avenal,15505
+Kings,Corcoran,24813
+Kings,Hanford,53967
+Kings,Lemoore,24531
+Lake,Clearlake,15250
+Lake,Kelseyville,
+Lake,Lakeport,4753
+Lassen,Susanville,17947
+Los Angeles,Agoura Hills,20330
+Los Angeles,Alhambra,83089
+Los Angeles,Arcadia,56364
+Los Angeles,Artesia,16522
+Los Angeles,Avalon,3728
+Los Angeles,Azusa,46361
+Los Angeles,Baldwin Park,75390
+Los Angeles,Bell,35477
+Los Angeles,Bell Gardens,42072
+Los Angeles,Bellflower,76616
+Los Angeles,Beverly Hills,34109
+Los Angeles,Bradbury,1048
+Los Angeles,Burbank,103340
+Los Angeles,Calabasas,23058
+Los Angeles,Carson,91714
+Los Angeles,Cerritos,49041
+Los Angeles,Claremont,34926
+Los Angeles,Commerce,12823
+Los Angeles,Compton,96455
+Los Angeles,Covina,47796
+Los Angeles,Cudahy,23805
+Los Angeles,Culver City,38883
+Los Angeles,Diamond Bar,55544
+Los Angeles,Downey,111772
+Los Angeles,Duarte,21321
+Los Angeles,El Monte,113475
+Los Angeles,El Segundo,16654
+Los Angeles,Gardena,58829
+Los Angeles,Glendale,191719
+Los Angeles,Glendora,50073
+Los Angeles,Hawaiian Gardens,14254
+Los Angeles,Hawthorne,84293
+Los Angeles,Hermosa Beach,19506
+Los Angeles,Hidden Hills,1856
+Los Angeles,Huntington Park,58114
+Los Angeles,Industry,219
+Los Angeles,Inglewood,109673
+Los Angeles,Irwindale,1422
+Los Angeles,La Cañada Flintridge,20246
+Los Angeles,La Habra Heights,5325
+Los Angeles,La Mirada,48527
+Los Angeles,La Puente,39816
+Los Angeles,La Verne,31063
+Los Angeles,Lakewood,80048
+Los Angeles,Lancaster,156633
+Los Angeles,Lawndale,32769
+Los Angeles,Lomita,20256
+Los Angeles,Long Beach,462257
+Los Angeles,Los Angeles,3792621
+Los Angeles,Lynwood,69772
+Los Angeles,Malibu,12645
+Los Angeles,Manhattan Beach,35135
+Los Angeles,Maywood,27395
+Los Angeles,Monrovia,36590
+Los Angeles,Montebello,62500
+Los Angeles,Monterey Park,60269
+Los Angeles,Norwalk,105549
+Los Angeles,Palmdale,152750
+Los Angeles,Palos Verdes Estates,13438
+Los Angeles,Paramount,54098
+Los Angeles,Pasadena,137122
+Los Angeles,Pico Rivera,62942
+Los Angeles,Pomona,149058
+Los Angeles,Rancho Palos Verdes,41643
+Los Angeles,Redondo Beach,66748
+Los Angeles,Rolling Hills,1860
+Los Angeles,Rolling Hills Estates,8067
+Los Angeles,Rosemead,53764
+Los Angeles,San Dimas,33371
+Los Angeles,San Fernando,23645
+Los Angeles,San Gabriel,39718
+Los Angeles,San Marino,13147
+Los Angeles,Santa Clarita,176320
+Los Angeles,Santa Fe Springs,16223
+Los Angeles,Santa Monica,89736
+Los Angeles,Sierra Madre,10917
+Los Angeles,Signal Hill,11016
+Los Angeles,South El Monte,20116
+Los Angeles,South Gate,94396
+Los Angeles,South Pasadena,25619
+Los Angeles,Temple City,35558
+Los Angeles,Torrance,145438
+Los Angeles,Vernon,112
+Los Angeles,Walnut,29172
+Los Angeles,West Covina,106098
+Los Angeles,West Hollywood,34399
+Los Angeles,Westlake Village,8270
+Los Angeles,Whittier,85331
+Madera,Chowchilla,18720
+Madera,Madera,61416
+Marin,Belvedere,2068
+Marin,Corte Madera,9253
+Marin,Fairfax,7441
+Marin,Larkspur,11926
+Marin,Mill Valley,13903
+Marin,Novato,51904
+Marin,Ross,2415
+Marin,San Anselmo,12336
+Marin,San Rafael,57713
+Marin,Sausalito,7061
+Marin,Tiburon,8962
+Mariposa,Hornitos,0
+Mendocino,Fort Bragg,7273
+Mendocino,Point Arena,449
+Mendocino,Potter Valley,0
+Mendocino,Ukiah,16075
+Mendocino,Willits,4888
+Merced,Atwater,28168
+Merced,Dos Palos,4950
+Merced,Gustine,5520
+Merced,Livingston,13058
+Merced,Los Banos,35972
+Merced,Merced,78958
+Modoc,Alturas,2827
+Mono,Mammoth Lakes,8234
+Monterey,Carmel-By-The-Sea,3722
+Monterey,Del Rey Oaks,1624
+Monterey,Gonzales,8187
+Monterey,Greenfield,16330
+Monterey,King City,12874
+Monterey,Marina,19718
+Monterey,Monterey,27810
+Monterey,Pacific Grove,15041
+Monterey,Salinas,150441
+Monterey,Sand City,334
+Monterey,Seaside,33025
+Monterey,Soledad,25738
+Napa,American Canyon,19454
+Napa,Calistoga,5155
+Napa,Napa,76915
+Napa,St. Helena,5814
+Napa,Yountville,2933
+Nevada,Grass Valley,12860
+Nevada,Nevada City,3068
+Nevada,Truckee,16180
+Orange,Aliso Viejo,47823
+Orange,Anaheim,336265
+Orange,Brea,39282
+Orange,Buena Park,80530
+Orange,Costa Mesa,109960
+Orange,Cypress,47802
+Orange,Dana Point,33351
+Orange,Fountain Valley,55313
+Orange,Fullerton,135161
+Orange,Garden Grove,170883
+Orange,Huntington Beach,189992
+Orange,Irvine,212375
+Orange,La Habra,60239
+Orange,La Palma,15568
+Orange,Laguna Beach,22723
+Orange,Laguna Hills,30344
+Orange,Laguna Niguel,62979
+Orange,Laguna Woods,16192
+Orange,Lake Forest,77264
+Orange,Los Alamitos,11449
+Orange,Mission Viejo,93305
+Orange,Newport Beach,85186
+Orange,Orange,136416
+Orange,Placentia,50533
+Orange,Rancho Santa Margarita,47853
+Orange,San Clemente,63522
+Orange,San Juan Capistrano,34593
+Orange,Santa Ana,324528
+Orange,Seal Beach,24168
+Orange,Stanton,38186
+Orange,Tustin,75540
+Orange,Villa Park,5812
+Orange,Westminster,89701
+Orange,Yorba Linda,64234
+Placer,Auburn,13330
+Placer,Colfax,1963
+Placer,Dutch Flat,0
+Placer,Lincoln,42819
+Placer,Loomis,6430
+Placer,Rocklin,56974
+Placer,Roseville,118788
+Plumas,Portola,2104
+Riverside,Banning,29603
+Riverside,Beaumont,36877
+Riverside,Blythe,20817
+Riverside,Cabazon,0
+Riverside,Calimesa,7879
+Riverside,Canyon Lake,10561
+Riverside,Cathedral City,51200
+Riverside,Coachella,40704
+Riverside,Corona,152374
+Riverside,Desert Hot Springs,25938
+Riverside,Hemet,78657
+Riverside,Indian Wells,4958
+Riverside,Indio,76036
+Riverside,La Quinta,37467
+Riverside,Lake Elsinore,51821
+Riverside,Menifee,77519
+Riverside,Moreno Valley,193365
+Riverside,Murrieta,103466
+Riverside,Norco,27063
+Riverside,Palm Desert,48445
+Riverside,Palm Springs,44552
+Riverside,Perris,68386
+Riverside,Rancho Mirage,17218
+Riverside,Riverside,303871
+Riverside,San Jacinto,44199
+Riverside,Temecula,100097
+Riverside,Wildomar,32176
+Sacramento,Citrus Heights,83301
+Sacramento,Elk Grove,153015
+Sacramento,Folsom,72203
+Sacramento,Galt,23647
+Sacramento,Isleton,804
+Sacramento,North Sacramento,0
+Sacramento,Rancho Cordova,64776
+Sacramento,Sacramento,466488
+San Benito,Hollister,34928
+San Benito,San Juan Bautista,1862
+San Bernardino,Adelanto,31765
+San Bernardino,Apple Valley,69135
+San Bernardino,Barstow,22639
+San Bernardino,Big Bear Lake,5019
+San Bernardino,Chino,77983
+San Bernardino,Chino Hills,74799
+San Bernardino,Colton,52154
+San Bernardino,Fontana,196069
+San Bernardino,Grand Terrace,12040
+San Bernardino,Hesperia,90173
+San Bernardino,Highland,53104
+San Bernardino,Loma Linda,23261
+San Bernardino,Montclair,36664
+San Bernardino,Needles,4844
+San Bernardino,Ontario,163924
+San Bernardino,Rancho Cucamonga,165269
+San Bernardino,Redlands,68747
+San Bernardino,Rialto,99171
+San Bernardino,San Bernardino,209924
+San Bernardino,Twentynine Palms,25048
+San Bernardino,Upland,73732
+San Bernardino,Victorville,115903
+San Bernardino,Yucaipa,51367
+San Bernardino,Yucca Valley,20700
+San Diego,Carlsbad,105328
+San Diego,Chula Vista,243916
+San Diego,Coronado,18912
+San Diego,Del Mar,4161
+San Diego,El Cajon,99478
+San Diego,Encinitas,59518
+San Diego,Escondido,143911
+San Diego,Imperial Beach,26324
+San Diego,La Mesa,57065
+San Diego,Lemon Grove,25320
+San Diego,National City,58582
+San Diego,Oceanside,167086
+San Diego,Poway,47811
+San Diego,San Diego,1307402
+San Diego,San Marcos,83781
+San Diego,Santee,53413
+San Diego,Solana Beach,12867
+San Diego,Vista,93834
+San Francisco,San Francisco,805235
+San Joaquin,Escalon,7132
+San Joaquin,Lathrop,18023
+San Joaquin,Lodi,62134
+San Joaquin,Manteca,67096
+San Joaquin,Ripon,14297
+San Joaquin,Stockton,291707
+San Joaquin,Tracy,82922
+San Luis Obispo,Arroyo Grande,17252
+San Luis Obispo,Atascadero,28310
+San Luis Obispo,Grover Beach,13156
+San Luis Obispo,Morro Bay,10234
+San Luis Obispo,Paso Robles,29793
+San Luis Obispo,Pismo Beach,7655
+San Luis Obispo,San Luis Obispo,45119
+San Mateo,Atherton,6914
+San Mateo,Belmont,25835
+San Mateo,Brisbane,4282
+San Mateo,Burlingame,28806
+San Mateo,Colma,1792
+San Mateo,Daly City,101123
+San Mateo,East Palo Alto,28155
+San Mateo,Foster City,30567
+San Mateo,Half Moon Bay,11324
+San Mateo,Hillsborough,10825
+San Mateo,Menlo Park,32026
+San Mateo,Millbrae,21532
+San Mateo,Pacifica,37234
+San Mateo,Portola Valley,4353
+San Mateo,Redwood City,76815
+San Mateo,San Bruno,41114
+San Mateo,San Carlos,28406
+San Mateo,San Mateo,97207
+San Mateo,South San Francisco,63632
+San Mateo,Woodside,5287
+Santa Barbara,Buellton,4828
+Santa Barbara,Carpinteria,13040
+Santa Barbara,Goleta,29888
+Santa Barbara,Guadalupe,7080
+Santa Barbara,Lompoc,42434
+Santa Barbara,Santa Barbara,88410
+Santa Barbara,Santa Maria,99553
+Santa Barbara,Solvang,5245
+Santa Clara,Campbell,39349
+Santa Clara,Cupertino,58302
+Santa Clara,Gilroy,48821
+Santa Clara,Los Altos,28976
+Santa Clara,Los Altos Hills,7922
+Santa Clara,Los Gatos,29413
+Santa Clara,Milpitas,66790
+Santa Clara,Monte Sereno,3341
+Santa Clara,Morgan Hill,37882
+Santa Clara,Mountain View,74066
+Santa Clara,Palo Alto,64403
+Santa Clara,San Jose,945942
+Santa Clara,Santa Clara,116468
+Santa Clara,Saratoga,29926
+Santa Clara,Sunnyvale,140081
+Santa Cruz,Boulder Creek,0
+Santa Cruz,Capitola,9918
+Santa Cruz,Felton,0
+Santa Cruz,Santa Cruz,59946
+Santa Cruz,Scotts Valley,11580
+Santa Cruz,Watsonville,51199
+Shasta,Anderson,9932
+Shasta,Coram,0
+Shasta,Kennett,0
+Shasta,Redding,89861
+Shasta,Shasta Lake,10164
+,,0
+Sierra,Loyalton,769
+Siskiyou,Dorris,939
+Siskiyou,Dunsmuir,1650
+Siskiyou,Etna,737
+Siskiyou,Fort Jones,839
+Siskiyou,Montague,1443
+Siskiyou,Mount Shasta,3394
+Siskiyou,Tulelake,1010
+Siskiyou,Weed,2967
+Siskiyou,Yreka,7765
+Solano,Benicia,26997
+Solano,Dixon,18351
+Solano,Fairfield,105321
+Solano,Rio Vista,7360
+Solano,Suisun City,28111
+Solano,Vacaville,92428
+Solano,Vallejo,115942
+Sonoma,Cloverdale,8618
+Sonoma,Cotati,7265
+Sonoma,Healdsburg,11254
+Sonoma,Petaluma,57941
+Sonoma,Rohnert Park,40971
+Sonoma,Santa Rosa,167815
+Sonoma,Sebastopol,7379
+Sonoma,Sonoma,10648
+Sonoma,Windsor,26801
+Stanislaus,Ceres,45417
+Stanislaus,Hughson,6640
+Stanislaus,Modesto,201165
+Stanislaus,Newman,10224
+Stanislaus,Oakdale,20675
+Stanislaus,Patterson,20413
+Stanislaus,Riverbank,22678
+Stanislaus,Turlock,68549
+Stanislaus,Waterford,8456
+Sutter,Live Oak,8392
+Sutter,Yuba City,64925
+Tehama,Corning,7663
+Tehama,Red Bluff,14076
+Tehama,Tehama,418
+Trinity,,13786
+Tulare,Dinuba,21453
+Tulare,Exeter,10334
+Tulare,Farmersville,10588
+Tulare,Lindsay,11768
+Tulare,Porterville,54165
+Tulare,Tulare,59278
+Tulare,Visalia,124442
+Tulare,Woodlake,7279
+Tuolumne,Sonora,4903
+Ventura,Camarillo,65201
+Ventura,Fillmore,15002
+Ventura,Moorpark,34421
+Ventura,Ojai,7461
+Ventura,Oxnard,197899
+Ventura,Port Hueneme,21723
+Ventura,Santa Paula,29321
+Ventura,Simi Valley,124237
+Ventura,Thousand Oaks,126683
+Ventura,Ventura,106433
+Yolo,Davis,65622
+Yolo,West Sacramento,48744
+Yolo,Winters,6624
+Yolo,Woodland,55468
+Yuba,Marysville,12072
+Yuba,Wheatland,3456
